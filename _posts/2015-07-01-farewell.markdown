@@ -1,0 +1,15 @@
+---
+layout:     post
+title:      "René's FAREWELL"
+subtitle:   "dorkbot Aachen SPECIAL"
+date:       2015-07-01 08:00:00
+author:     "René"
+header-img: "img/RW_20111019_d0040_co6_small.jpg"
+---
+<p>Nach 6 Jahren feinster Wissenschaft verlasse ich das FabLab der RWTH Aachen.</p>
+<p>Mit diesem Event m&ouml;chte ich mich bei allen Partnern und Freunden bedanken. Es ist das letzte dorkbot.de Treffen, das ich organisiere.&nbsp;</p>
+<p>Nach einer spannenden Keynote gibt es die finalen Pr&auml;sentationen der Multi Modal Madness Teams. Im Anschlu&szlig; erwarten uns drei Vortr&auml;ge &uuml;ber Projekte, die im FabLab Aachen entstanden sind und ab 20:30 Uhr beginnt das dorkbot Treffen mit Ausstellung und Verpflegung.</p>
+<p>Ab 20:30 Uhr gibt es dann Essen und Getr&auml;nke und das dorkbot Show &amp; Tell beginnt.</p>
+<div style="width:100%; text-align:left;" ><iframe  src="//eventbrite.com/tickets-external?eid=17499366075&ref=etckt" frameborder="0" height="214" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe><div style="font-family:Helvetica, Arial; font-size:10px; padding:5px 0 5px; margin:2px; width:100%; text-align:left;" ><a class="powered-by-eb" style="color: #dddddd; text-decoration: none;" target="_blank" href="http://www.eventbrite.com/r/etckt">Powered by Eventbrite</a></div></div>
+
+<img src="{{ site.url }}/img/farewell_poster.jpg">

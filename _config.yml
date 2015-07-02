@@ -1,0 +1,22 @@
+# Site settings
+host: 0.0.0.0
+title: René is MAKING THINGS
+header-img: img/home-bg.jpg
+email: rene.bohne@gmail.com
+description: "Personal website of René Bohne"
+baseurl: ""
+url: "http://www.rene-bohne.de"
+twitter_username: rene_bohne
+github_username:  renebohne
+facebook_username:  rene.bohne.aachen
+flickr_username: 48008270@N07
+googleplus_username: 107829664889331834066
+youtube_username: renebohne
+instagram_username: renebohneaachen
+tumblr_username: bohne
+# Build settings
+markdown: kramdown
+highlighter: pygments
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]

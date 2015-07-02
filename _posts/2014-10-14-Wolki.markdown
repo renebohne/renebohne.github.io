@@ -1,0 +1,39 @@
+---
+layout:     post
+title:      "Wolki"
+subtitle:   "The friendly cloud sensor"
+date:       2014-10-14 08:00:00
+author:     "René"
+header-img: "img/wolki.jpg"
+---
+<p>This year, there was another Makelight competition. My contribution was an open-source cloud sensor, based on an Arduino UNO.</p>
+
+<h2>The Hardware</h2>
+<p>The project uses very basic components:</p>
+<ul>
+<li>Arduino UNO</li>
+<li>Wireless SD shield</li>
+<li>IR sensor MLX90614</li>
+<li>Light sensor TSL237</li>
+<li>Temperature sensor DS18B20</li>
+<li>3x 4.7kOhm</li>
+<li>1x 100nF</li>
+</ul>
+<img src="{{ site.baseurl }}/img/wolki2.jpg" alt="Wolki hardware">
+<span class="caption text-muted">I milled a PCB and soldered all sensors on it.</span>
+
+
+<h2>The Software</h2>
+<p>I uploaded the <a href="https://github.com/renebohne/CloudDetectorLightMeter">software</a> to github. The Arduino sketch is called DIY_SQM_Test_RAW.ino</p>
+<img src="{{ site.baseurl }}/img/wolki3.png" alt="Wolki software">
+<span class="caption text-muted">The Arduino sketch reads the sensors and sends it to the serial port.</span>
+
+
+<h2>Instructions</h2>
+<p>For German instructions, please download <a href="{{ site.baseurl }}/pdfs/Wolki_Bohne.pdf">this PDF<span class="fa-stack fa-lg"><i class="fa fa-file-pdf-o fa-stack-1x"></i></span></a>.</p>
+<p>I will add more details later.</p>
+
+<p>You can find more information on the <a href="http://www.photonik-campus.de/projects/wolki-der-freundliche-diy-wolkensensor/">Makelight competition homepage</a>.</p>
+
+
+

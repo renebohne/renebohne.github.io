@@ -1,0 +1,19 @@
+---
+layout:     post
+title:      "Interactive Assembly"
+subtitle:   "Media Computing Project 2012"
+date:       2012-02-01 08:00:00
+author:     "René"
+header-img: "img/fabscanfront.jpg"
+---
+<p>In 2012, Chat and I supervised the Media Computing Project. The topic for this semester was Interactive Assembly. One problem of Personal Fabrication is that you can't print all objects in a single process. Many things have to be assembled. The goal of our lab course was to make this assembly as easy as possible. For this reason, the students had to create an interactive setup that detects user input in 3D and outpus information that support the assembly process.</p>
+<blockquote>In MCP WS ’12/13, students will construct a 3D step-by-step interactive assembly system for Media Computing Group’s FabScan 3D. With 3D motion tracking technology, the system will recognize components of the machine and guide the assembler through audio/visual output on an iPad viewport.</blockquote>
+
+
+<h2>Final Presentation</h2>
+<p>I recorded the final presentation and added the slides to the talk:</p>
+<div class="videoWrapper">
+<iframe width="560" height="315" src="//www.youtube.com/embed/3Q2Xv1Y1mdU" frameborder="0" allowfullscreen></iframe>
+</div>
+<span class="caption text-muted">MCP2012: final presentation</span>
+You can find more information on the <a href="http://hci.rwth-aachen.de/interactive_assembly">lab homepage</a>.
