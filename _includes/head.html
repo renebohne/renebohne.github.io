@@ -1,9 +1,69 @@
 <head>
-
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="{{ site.description }}">
+    <meta name="p:domain_verify" content="4872e57e02e1a1510a1d645c7c1578c7"/>
+    
+    <meta name="twitter:card" content="summary">
+<meta name="twitter:site" content="{{ twitter_username }}">
+<meta name="twitter:creator" content="{{ twitter_username }}">
+{% if page.title %}
+  <meta name="twitter:title" content="{{ page.title }}">
+{% else %}
+  <meta name="twitter:title" content="{{ site.title }}">
+{% endif %}
+{% if page.url %}
+  <meta name="twitter:url" content="{{ site.url }}{{ page.url }}">
+{% endif %}
+<meta name="twitter:description" content="{{ page.content | strip_html | xml_escape | truncate: 200 }}">
+{% if page.header-img %}
+  <meta name="twitter:image:src" content="{{ site.url }}/{{ page.header-img }}">
+{% else %}
+  <meta name="twitter:image:src" content="{{ site.url }}/{{ site.header-img }}">
+{% endif %}
+
+<meta content="{{ site.title }}" property="og:site_name">
+{% if page.title %}
+  <meta content="{{ page.title }}" property="og:title">
+{% else %}
+  <meta content="{{ site.title }}" property="og:title">
+{% endif %}
+{% if page.title %}
+  <meta content="article" property="og:type">
+{% else %}
+  <meta content="website" property="og:type">
+{% endif %}
+{% if page.description %}
+  <meta content="{{ page.description }}" property="og:description">
+{% else %}
+  <meta content="{{ page.content | strip_html | xml_escape | truncate: 160 }}" property="og:description">
+{% endif %}
+{% if page.url %}
+  <meta content="{{ site.url }}{{ page.url }}" property="og:url">
+{% endif %}
+{% if page.date %}
+  <meta content="{{ page.date | date_to_xmlschema }}" property="article:published_time">
+  <meta content="{{ site.url }}/about/" property="article:author">
+{% endif %}
+{% if page.header-img %}
+  <meta content="{{ site.url }}/{{ page.header-img }}" property="og:image">
+{% else %}
+  <meta content="{{ site.url }}/{{ site.header-img }}" property="og:image">
+{% endif %}
+{% if page.categories %}
+  {% for category in page.categories limit:1 %}
+  <meta content="{{ category }}" property="article:section">
+  {% endfor %}
+{% endif %}
+{% if page.tags %}
+  {% for tag in page.tags %}
+  <meta content="{{ tag }}" property="article:tag">
+  {% endfor %}
+{% endif %}
+
+<meta property="fb:admins" content="1801416675" />
+
 
     <title>René Bohne  - {% if page.title %}{{ page.title }} - {{ site.title }}{% else %}{{ site.title }}{% endif %}</title>
 
