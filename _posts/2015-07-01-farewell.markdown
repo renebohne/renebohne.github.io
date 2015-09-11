@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "René's FAREWELL"
-subtitle:   "dorkbot Aachen SPECIAL"
+subtitle:   "dorkbot Aachen [German]"
 date:       2015-07-01 08:00:00
 author:     "René"
 header-img: "img/RW_20111019_d0040_co6_small.jpg"
