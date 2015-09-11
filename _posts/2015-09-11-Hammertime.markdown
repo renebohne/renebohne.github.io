@@ -2,7 +2,7 @@
 layout:     post
 title:      "Hammertime"
 subtitle:   "We created a wooden 3D-scanner"
-date:       2012-02-01 08:00:00
+date:       2015-09-11 08:00:00
 author:     "René"
 header-img: "img/fabscanfront.jpg"
 ---
