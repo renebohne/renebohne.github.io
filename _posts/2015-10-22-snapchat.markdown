@@ -11,3 +11,4 @@ author:     "René"
 <h2>Add me</h2>
 <p>Just open snapchat, target your camera on this snapcode and hold one finger on the snapcode:
 <img src="{{ site.url }}/img/snapcode.png" width="50%"/>
+
