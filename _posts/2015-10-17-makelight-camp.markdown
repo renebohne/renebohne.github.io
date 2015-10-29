@@ -8,9 +8,7 @@ header-img: "img/253.jpg"
 tags: workshop Berlin
 ---
 
-<p>I hosted a workshop about the Intel Galileo and the robOLED robotic arm during the <a href="http://www.photonik-campus.de/make-light/make-light-veranstaltungen/make-light-lab-im-bundesforschungsministerium/" target="_blank">
-Make Light Camp 2015 in Berlin.</a>
-
+<p>I hosted a workshop about the Intel Galileo and the robOLED robotic arm during the <a href="http://www.photonik-campus.de/make-light/make-light-veranstaltungen/make-light-lab-im-bundesforschungsministerium/" target="_blank"> Make Light Camp 2015 in Berlin.</a></p>
 
 ![My Workshop]({{ site.url }}/img/IMG_8229.JPG){: .center-image }
 
