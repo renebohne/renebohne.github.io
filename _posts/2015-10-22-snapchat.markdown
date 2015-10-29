@@ -6,7 +6,7 @@ date:       2015-10-22 08:00:00
 author:     "René"
 ---
 <p>I installed snapchat some years ago. I hate the user interface! But the new chat features are great. Now you can video chat with your friends and find interesting news in the discover section.
-<br>I want to use snapchat more often and I need your help. Please add me on snapchat and share your stories and let's chat!
+<br>I want to use snapchat more often and I need your help. Please add me on snapchat and share your stories and let's chat!</p>
 
 <h2>Add me</h2>
 <p>Just open snapchat, target your camera on this snapcode and hold one finger on the snapcode:</p>
