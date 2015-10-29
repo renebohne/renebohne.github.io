@@ -4,7 +4,7 @@ title:      "Maker Faire Berlin"
 subtitle:   "Postbahnhof"
 date:       2015-10-04 08:00:00
 author:     "René"
-header-img: "img/253.jpg"
+header-img: "img/post-bg.jpg"
 tags: exhibition Berlin
 ---
 
