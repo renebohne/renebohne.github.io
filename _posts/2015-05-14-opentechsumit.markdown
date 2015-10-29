@@ -8,5 +8,5 @@ header-img: "img/post-bg.jpg"
 tags: talk Berlin
 ---
 
-<p>I talked about WEAR-LEDs at Open Tech Sumit.</p>
+<p>I talked about WEAR-LEDs at OpenTechSumit Berlin.</p>
 ![3D body scanner]({{ site.url }}/img/opentechsumit.jpg){: .center-image }
