@@ -1,0 +1,15 @@
+---
+layout:     post
+title:      "FabCon 3.D"
+subtitle:   "Erfurt"
+date:       2015-06-06 08:00:00
+author:     "René"
+header-img: "img/post-bg.jpg"
+tags: talk Erfurt
+---
+
+<p>I gave a talk at the FabCon 3.D in Erfuft. There is even a video recording:</p>
+<div class="videoWrapper">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oCuQx1q-OJs?rel=0" frameborder="0" allowfullscreen></iframe>
+</div>
+
