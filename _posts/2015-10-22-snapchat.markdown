@@ -10,4 +10,5 @@ author:     "René"
 
 <h2>Add me</h2>
 <p>Just open snapchat, target your camera on this snapcode and hold one finger on the snapcode:</p>
-![Soldering Workshop]({{ site.url }}/img/snapcode.png){: .center-image }
+
+![Snapcode]({{ site.url }}/img/snapcode.png){: .center-image }
