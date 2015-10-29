@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "Snapchat"
-subtitle:   "Add me!"
+subtitle:   "Snap me!"
 date:       2015-10-22 08:00:00
 author:     "René"
 ---
@@ -9,6 +9,5 @@ author:     "René"
 <br>I want to use snapchat more often and I need your help. Please add me on snapchat and share your stories and let's chat!
 
 <h2>Add me</h2>
-<p>Just open snapchat, target your camera on this snapcode and hold one finger on the snapcode:
-<img src="{{ site.url }}/img/snapcode.png" width="50%"/>
-
+<p>Just open snapchat, target your camera on this snapcode and hold one finger on the snapcode:</p>
+![Soldering Workshop]({{ site.url }}/img/snapcode.png){: .center-image }
