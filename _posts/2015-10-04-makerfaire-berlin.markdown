@@ -15,5 +15,5 @@ tags: exhibition Berlin
 
 <h2>Image Gallery</h2>
 <p>Find some of my images in this gallery:
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/48008270@N07/albums/72157659354193660" title="Maker Faire Berlin 2015"><img src="https://farm1.staticflickr.com/655/22107141542_4dae621dce_z.jpg" width="640" height="426" alt="Maker Faire Berlin 2015"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/48008270@N07/albums/72157659354193660" title="Maker Faire Berlin 2015"><img src="https://farm1.staticflickr.com/655/22107141542_4dae621dce_z.jpg" width="640" height="426" alt="Maker Faire Berlin 2015" class=".center"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </p>
