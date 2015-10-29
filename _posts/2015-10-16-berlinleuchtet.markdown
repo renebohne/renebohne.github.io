@@ -9,4 +9,4 @@ tags: workshop Berlin
 ---
 
 <p>I was invited to give soldering workshops at the Lichtermarkt during "Berlin leuchtet".</p>
-![3D body scanner]({{ site.url }}/img/berlinleuchtet.jpg){: .center-image }
+![Soldering Workshop]({{ site.url }}/img/berlinleuchtet.jpg){: .center-image }
