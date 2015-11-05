@@ -9,15 +9,21 @@ tags: project
 ---
 VisiCut is part of a Bachelor's Thesis by Thomas Oster, supervised by René Bohne
 
-![FabScan Pi](http://hci.rwth-aachen.de/img/wiki_up/pointcloud-to-mesh.png){: .center-image }
+![Visicut](http://hci.rwth-aachen.de/img/wiki_up/icon.png){: .center-image }
 
 
 VisiCut is our free, open-source lasercutter software!
+
 * Includes LibLaserCut, a platform independant library for Lasercutters (currently supporting the Epilog ZING, MINI and HELIX and Lasercutters with the LAOS board, but other drivers will follow in the near future)
+
 * Currently supports SVG, EPS, DXF and the VisiCut PLF (Portable Laser Format)
+
 * Get a preview how your graphic would look on the material
+
 * Easy place your graphic on the target material using a camera preview
+
 * Save your work and publish it in the VisiCut PLF-Format
+
 * Prepare your laserjobs at home – no more surprises when importing your file in the FabLab
 
 
