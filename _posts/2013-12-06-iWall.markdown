@@ -1,0 +1,20 @@
+---
+layout:     post
+title:      "iWall"
+subtitle:   "An Illuminated Façade For Smart Lighting Research"
+date:       2013-12-06 07:00:00
+author:     "René"
+header-img: "img/fabscanfront.jpg"
+tags: project
+---
+![iWall]({{ site.url }}/img/iwall.jpg){: .center-image }
+
+##About
+
+The iWall is an interactive light installation that opens up new opportunities in Smart Lighting research, teaching, and development for researchers, students, artists and makers. It is installed high up along the entire façade of the Computer Science building at RWTH Aachen University, facing Halifaxstraße. The iWall installation opens to the public in December 2013.
+
+The iWall is designed so users can interact with it outside the building using their mobile devices. The iWall is part of the Aixplorer project that is working on future approaches to city guide systems for tourists. Interactive façades are becoming commonplace in urban spaces, and future mobile city guide systems have an opportunity to use such displays to provide additional channels for information, art, and entertainment to tourists.
+
+
+##More Information
+[http://hci.rwth-aachen.de/iwall](http://hci.rwth-aachen.de/iwall)
