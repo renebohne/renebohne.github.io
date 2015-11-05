@@ -1,0 +1,32 @@
+---
+layout:     post
+title:      "Luminet"
+subtitle:   "An Organic Interactive Illumination Network"
+date:       2009-05-20 07:00:00
+author:     "René"
+header-img: "img/fabscanfront.jpg"
+tags: project
+---
+![iWall]({{ site.url }}/img/rene_luminet_wearit.jpg){: .center-image }
+
+##About
+
+Luminet was my Diploma Thesis at RWTH Aachen University.
+
+LumiNet is a network of low-cost intelligent pixels that are connected in an organic fashion: Without a central point of control, each node only knows about its immediate neighbors, allowing for highly parallel, fault-tolerant networks in which information spreads from node to node.
+
+Each node consists of an RGB LED, microcontroller, and connectors to its neighbors. Sensors attached to nodes may inject stimuli into the network.
+
+New behaviors are injected into the network from a single vector node attached anywhere in the network, in a viral fashion we dubbed "programming by infection".
+
+LumiNet nodes can be used in academia to teach concepts ranging from simple tree algorithms, to wave equations, to swarming behavior, but they are also designed to easily create wearable light-up body networks. Multiple people wearing LumiNets can connect over the air using Send/Receive nodes.
+
+<div class="videoWrapper">
+<video  width="560" height="315" controls="controls" autoplay="autoplay"><br />
+    <source src="http://hci.rwth-aachen.de/~bohne/LumiNet-BM08_640480.mp4" type="video/mp4" /><br />
+    This browser is not compatible with HTML 5... <a href="http://hci.rwth-aachen.de/videos/robOLED/robOLEDMakingOf.mp4">download video</a><br />
+</video>
+</div>
+
+##More Information
+[http://hci.rwth-aachen.de/luminet1](http://hci.rwth-aachen.de/luminet1)
