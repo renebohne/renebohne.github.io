@@ -9,7 +9,7 @@ description: "Talks, Workshops, Conferences"
     <ul>    
     {% for post in site.posts %}
         {% if post.tags contains 'event' %}
-        <li><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></li>li>
+        <li><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>{{ post.date | date: ' %Y' }}</li>
         {% endif %}
     {% endfor %}
     </ul>    
