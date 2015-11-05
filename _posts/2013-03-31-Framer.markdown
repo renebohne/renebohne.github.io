@@ -1,0 +1,20 @@
+---
+layout:     post
+title:      "Framer"
+subtitle:   "A Personal Design Tool for 3D Picture Frames"
+date:       2013-03-31 07:00:00
+author:     "René"
+header-img: "img/fabscanfront.jpg"
+tags: project
+---
+I supervised this Bachelor's thesis by Verena Kuhr.
+
+![Framer](http://hci.rwth-aachen.de/img/wiki_up/Framer.png)
+
+##About
+
+Framer is a 3D design tool that created 3D-printable models of picture frames. The goal of this application is to create picture frames for digital images without complicated CAD or drawing tools.
+
+
+##More Information
+[http://hci.rwth-aachen.de/framer(http://hci.rwth-aachen.de/framer)
