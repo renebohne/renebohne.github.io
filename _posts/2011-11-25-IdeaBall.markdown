@@ -1,0 +1,20 @@
+---
+layout:     post
+title:      "IdeaBall"
+subtitle:   "a userfriendly tool for laser-cutting"
+date:       2011-11-25 07:00:00
+author:     "René"
+header-img: "img/fabscanfront.jpg"
+tags: project
+---
+I supervised this Master's thesis by Clio Kakoulli.
+
+![IdeaBall](http://hci.rwth-aachen.de/img/wiki_up/ideaballnavigator_highlevel.png){: .center-image }
+
+
+##About
+IdeaBall is a physical prototype for controlling turn-taking and recording brainstorming sessions. It is used in conjuction with the IdeaBallNavigator, a desktop application for logging and displaying information gathered by the IdeaBall.
+
+
+##More Information
+[http://hci.rwth-aachen.de/visicut](http://hci.rwth-aachen.de/visicut)
