@@ -1,0 +1,20 @@
+---
+layout:     post
+title:      "Fabiji"
+subtitle:   "A Tablet Kiosk to Facilitate Creating and Sharing Documentation at Fab Labs"
+date:       2012-03-30 07:00:00
+author:     "René"
+header-img: "img/fabscanfront.jpg"
+tags: project
+---
+I supervised this Master's thesis by Zhao He.
+
+##About
+Fabiji is a mobile kiosk with an embedded iPad that offers a whole new experience for creating and sharing documentation at fab labs. 
+
+<div class="videoWrapper">
+<iframe src="https://player.vimeo.com/video/38198400" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+</div>
+
+##More Information
+[http://hci.rwth-aachen.de/fabiji](http://hci.rwth-aachen.de/fabiji)
