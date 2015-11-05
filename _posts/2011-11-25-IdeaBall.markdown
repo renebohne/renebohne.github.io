@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "IdeaBall"
-subtitle:   "a userfriendly tool for laser-cutting"
+subtitle:   "A Physical Artifact for Moderating and Analyzing Brainstorming Sessions"
 date:       2011-11-25 07:00:00
 author:     "René"
 header-img: "img/fabscanfront.jpg"
