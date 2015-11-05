@@ -1,0 +1,17 @@
+---
+layout:     post
+title:      "LumiCAD"
+subtitle:   "Interactive Organic Generative Design for Personal Photonics with OLEDs"
+date:       2015-07-29 07:00:00
+author:     "René"
+header-img: "img/fabscanfront.jpg"
+tags: project
+---
+I supervised this Bachelor's thesis by Salsabil Hamadache.
+
+##About
+
+LumiCAD is an interactive Processing program with which one can 'grow' an individual lamp to then 3D print it. The design is supposed to look organic and natural and above all, unique in every usage, and the interaction is in the focus of the program, as it is supposed to be a step towards interactive personal fabrication.
+
+##More Information
+[http://hci.rwth-aachen.de/lumicad](http://hci.rwth-aachen.de/lumicad)
