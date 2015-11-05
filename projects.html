@@ -1,0 +1,16 @@
+---
+layout: page
+title: "Projects"
+description: "Projects"
+---
+
+<div id="main">
+
+    <ul>    
+    {% for post in site.posts %}
+        {% if post.tags contains 'project' %}
+        <li><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></li>li>
+        {% endif %}
+    {% endfor %}
+    </ul>    
+</div>
