@@ -1,0 +1,19 @@
+---
+layout:     post
+title:      "FabScan"
+subtitle:   " Affordable 3D Laser Scanning of Physical Objects"
+date:       2011-09-30 08:00:00
+author:     "René"
+header-img: "img/fabscanfront.jpg"
+tags: project
+---
+<p>FabScan is an open-source, do-it-yourself 3D laser scanner.
+It started out as a Bachelor's thesis by Francis Engelmann, supervised by René Bohne.
+
+<br>FabScan was featured on Thingiverse, it's popular on GitHub, and we have a small but steadily growing mailing list on Google Groups.</p>
+
+![FabScan](http://hci.rwth-aachen.de/img/wiki_up/prot3Setup.png){: .center-image }
+
+
+##More Information
+http://hci.rwth-aachen.de/fabscan
