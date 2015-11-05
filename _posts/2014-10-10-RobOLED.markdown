@@ -1,8 +1,8 @@
 ---
 layout:     post
-title:      "FabFAQ"
-subtitle:   "A demand-driven learning platform for the personal fabrication domain"
-date:       2013-04-30 07:00:00
+title:      "ROBOLED"
+subtitle:   "An Open Hardware Robotic Arm"
+date:       2014-10-10 07:00:00
 author:     "René"
 header-img: "img/fabscanfront.jpg"
 tags: project
