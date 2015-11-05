@@ -1,0 +1,24 @@
+---
+layout:     post
+title:      "FabFAQ"
+subtitle:   "A demand-driven learning platform for the personal fabrication domain"
+date:       2013-04-30 07:00:00
+author:     "René"
+header-img: "img/fabscanfront.jpg"
+tags: project
+---
+![RobOLED](http://hci.rwth-aachen.de/img/wiki_up/IMG_65_ROBOLED_with_wall.jpg)
+
+##About
+
+ROBOLED is a permanent interactive exhibit in the new German Ministry of Education and Research (BMBF) building in Berlin. It was unveiled during the building's opening ceremony in October 2014. ROBOLED is a robotic arm that types on an iPad. The resulting text is sent to a high-tech Philips Organic LED (OLED) wall where it is displayed. The OLED wall is a “closed” commercial product without open interfaces to talk to it, except for the iPad app that provides access to a limited number of demos on the wall's built-in computer, including a demo to render text typed on the iPad onto the wall. ROBOLED “opens up” the wall by automating this iPad text input via the robotic arm. To demonstrate this, ROBOLED provides a "weather forecast" mode in which it fetches current weather forecasts online, and types corresponding weather updates on the iPad, which then appear on the wall as scrolling text. ROBOLED also has buttons to launch the wall's built-in other demos (audio and video) on the iPad. With its steampunk aesthetic, the ROBOLED project illustrates in a playful way the potential of high-tech industry collaborating with the Maker movement, and the difficulties of getting open access to technology interfaces to enable DIY experimentation and innovation.
+
+<div class="videoWrapper">
+<video  width="1280" height="720" controls="controls" autoplay="autoplay"><br />
+    <source src="http://hci.rwth-aachen.de/videos/robOLED/robOLEDMakingOf.mp4" type="video/mp4" /><br />
+    This browser is not compatible with HTML 5... <a href="http://hci.rwth-aachen.de/videos/robOLED/robOLEDMakingOf.mp4">download video</a><br />
+</video>
+</div>
+
+##More Information
+[http://hci.rwth-aachen.de/roboled](http://hci.rwth-aachen.de/roboled)
