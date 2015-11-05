@@ -5,6 +5,7 @@ subtitle:   "A barcamp about Photonics"
 date:       2012-09-15 08:00:00
 author:     "René"
 header-img: "img/post-bg-01.jpg"
+tags: event
 ---
 <p>In 2012, I organised the first Photonik-Camp in Aachen. It was a barcamp with sessions about photonics. We recorded some interviews that I want to present on this page:</p>
 

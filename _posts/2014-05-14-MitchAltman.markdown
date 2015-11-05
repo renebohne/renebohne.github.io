@@ -5,6 +5,7 @@ subtitle:   "A talk about success and failure"
 date:       2014-05-14 08:00:00
 author:     "René"
 header-img: "img/mitchaltman.jpg"
+tags: event
 ---
 <p>As one station of the <a href="https://noisebridge.net/wiki/Mitch_UK_DE_Tour_2014" target="_blank">Mitch UK DE tour</a>, Mario Lukas and I were able to invite Mitch Altman to visit Aachen. Mitch came to the dorkbot Aachen meeting on May, 14, 2014 and gave a talk about success and failure. We recorded this talk and an exclusive interview that was moderated by Jan Borchers. I can offer you both recordings here:</p>
 

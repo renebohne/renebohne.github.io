@@ -5,7 +5,7 @@ subtitle:   "Berlin"
 date:       2015-05-07 08:00:00
 author:     "René"
 header-img: "img/post-bg.jpg"
-tags: talk workshop Berlin
+tags: talk workshop Berlin publication
 ---
 
 <p>I gave a talk about personal fabrication and smart fashion at the re:publica conference and a workshop about how to iron LEDs onto clothes.</p>

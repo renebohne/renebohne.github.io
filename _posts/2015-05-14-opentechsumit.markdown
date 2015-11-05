@@ -5,7 +5,7 @@ subtitle:   "Wearables"
 date:       2015-05-14 08:00:00
 author:     "René"
 header-img: "img/post-bg.jpg"
-tags: talk Berlin
+tags: talk Berlin publication
 ---
 
 <p>I talked about WEAR-LEDs at OpenTechSumit Berlin.</p>

@@ -5,6 +5,7 @@ subtitle:   "First European Conference on Personal Fabrication"
 date:       2013-09-09 08:00:00
 author:     "René"
 header-img: "img/fablabcon.jpg"
+tags: event Aachen
 ---
 <p>One day after the Mini Makerfaire Kerkrade, we hosted the FabLabCon Europe. It was the first european conference on Personal Fabrication. My idea was to bring the european FabLab community together for some research. Although it was on very short notice, we managed to find 80 participants! I was the main organiser of this conference.</p>
 

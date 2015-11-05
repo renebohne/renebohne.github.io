@@ -5,6 +5,7 @@ subtitle:   "and FabLabs"
 date:       2015-07-29 08:00:00
 author:     "René"
 header-img: "img/post-bg-01.jpg"
+tags: publication
 ---
 Liz visited Lina and me at Fablab Berlin. We helped her to create a DIY wearable project with our WEAR-LEDs. Watch her great (German) video on youtube:
 

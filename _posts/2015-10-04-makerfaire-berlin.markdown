@@ -5,7 +5,7 @@ subtitle:   "Postbahnhof"
 date:       2015-10-04 08:00:00
 author:     "René"
 header-img: "img/post-bg.jpg"
-tags: exhibition Berlin
+tags: exhibition Berlin event
 ---
 
 <p>It was the first Maker Faire in Berlin and it was great! I was part of the "Freie Maker" exhibition and our highlight was a 3D body scanner. We 3D-scanned people for free!</p>

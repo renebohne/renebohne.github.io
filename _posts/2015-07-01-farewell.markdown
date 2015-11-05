@@ -5,6 +5,7 @@ subtitle:   "dorkbot Aachen [German]"
 date:       2015-07-01 08:00:00
 author:     "René"
 header-img: "img/RW_20111019_d0040_co6_small.jpg"
+tags: event Aachen
 ---
 <p>Nach 6 Jahren feinster Wissenschaft verlasse ich das FabLab der RWTH Aachen.</p>
 <p>Mit diesem Event m&ouml;chte ich mich bei allen Partnern und Freunden bedanken. Es ist das letzte dorkbot.de Treffen, das ich organisiere.&nbsp;</p>

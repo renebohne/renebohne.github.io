@@ -5,6 +5,7 @@ subtitle:   "Episode 67"
 date:       2011-09-22 08:00:00
 author:     "René"
 header-img: "img/fabscanfront.jpg"
+tags: publication
 ---
 My most favorite TV appearance of all times! I loved WDR Computer Club and it was an honour to be a guest at the Computer Club 2 show in 2011.
 

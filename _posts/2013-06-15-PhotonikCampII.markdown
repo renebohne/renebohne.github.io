@@ -5,6 +5,7 @@ subtitle:   "Road to Makerfaire"
 date:       2013-06-15 08:00:00
 author:     "René"
 header-img: "img/bg-pcamp2.jpg"
+tags: event
 ---
 <p>In 2013, I organised the second Photonik-Camp in Aachen. This time, the participants had to create ideas for the first Makerfaire in Germany. The best ideas got some funding and became part of the Makelight booth at the Makerfaire Hannover. I recorded some talks:</p>
 <h2>Merlin Schaufel: DIY Diodenlaser</h2>
