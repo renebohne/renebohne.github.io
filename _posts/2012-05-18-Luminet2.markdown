@@ -1,0 +1,27 @@
+---
+layout:     post
+title:      "Luminet2"
+subtitle:   "A Personal Design Tool for 3D Picture Frames"
+date:       2012-05-18 07:00:00
+author:     "René"
+header-img: "img/fabscanfront.jpg"
+tags: project
+---
+I supervised this Master's thesis by Mariana Bocoi.
+
+![Luminet2](http://hci.rwth-aachen.de/img/wiki_up/Luminet2_DesignTop.png)
+
+##About
+
+LumiNet2 is a smart pixel and more. It was developed by Mariana Bocoi as part of her Master's thesis, supervised by René Bohne, and based on Jan Borchers' original LumiNet node design.
+
+LumiNet2 uses the concept of Programming by Light as introduced by AnioMagic. To upload a program to a node, all you have to do is to hold the node up to your laptop screen, and run a web app. This way, the node does not need any additional programming interfaces, or to be removed from the cloth in order to change its behavior.
+
+The nodes combine the Programming by Infection from the original LumiNet with the simplicity and ease of use of Programming by Light. That means you can inject the program into one node, and it will spread through ("infect") the entire network of connected nodes automatically.
+
+Compared to the original LumiNet, LumiNet2 features some hardware design changes to make them easier to understand and use. Nodes are now connected in a 1-D chain topology rather than a 2D grid topology to simplify programming communication. Instead of an ATtiny85, they use an ATmega328 to be more powerful and fully Arduino-compatible.
+
+LumiNet2 is smaller and lighter, which makes it easier to integrate them into clothes. All connectors are designed for easy sewing but also soldering of conductive ribbon.
+
+##More Information
+[http://hci.rwth-aachen.de/luminet2](http://hci.rwth-aachen.de/luminet2)

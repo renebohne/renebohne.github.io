@@ -17,4 +17,4 @@ Framer is a 3D design tool that created 3D-printable models of picture frames. T
 
 
 ##More Information
-[http://hci.rwth-aachen.de/framer(http://hci.rwth-aachen.de/framer)
+[http://hci.rwth-aachen.de/framer](http://hci.rwth-aachen.de/framer)
