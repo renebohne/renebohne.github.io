@@ -1,0 +1,26 @@
+---
+layout:     post
+title:      "FabQR"
+subtitle:   "Using QR Codes in the FabLab Workflow"
+date:       2015-07-26 07:00:00
+author:     "René"
+header-img: "img/fabscanfront.jpg"
+tags: project
+---
+I supervised this Bachelor's thesis by Christian Frohn.
+
+![FabQR](http://hci.rwth-aachen.de/img/wiki_up/fabqr-visicam.png)
+
+##About
+
+FabQR is aimed at solving the issue that many users of FabLabs do not publish their created projects on a regular basis, which is obstructive for the exchange of knowledge and ideas between FabLab users.
+
+Phyisical file sharing with QR codes is introduced into the FabLab workflow for severe improvements.
+
+The implementation of FabQR mainly deals with the lasercutter, although the idea of identifying project files with QR codes could also be applied to other tools and machines.
+
+In the context of the lasercutter these QR codes can additionally be used to create an interactive placing of lasercutting schemes:
+Users can place and rotate their QR code in reality and the identified cutting schemes will be placed and rotated in the lasercutter software (VisiCut) accordingly.
+
+##More Information
+[http://hci.rwth-aachen.de/fabqr](http://hci.rwth-aachen.de/fabqr)
