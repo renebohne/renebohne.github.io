@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "Luminet2"
-subtitle:   "A Personal Design Tool for 3D Picture Frames"
+subtitle:   "An Organic Interactive Illumination and Sensor Network for Fashion"
 date:       2012-05-18 07:00:00
 author:     "René"
 header-img: "img/fabscanfront.jpg"
