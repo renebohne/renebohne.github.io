@@ -7,9 +7,9 @@ author:     "René"
 header-img: "img/fabscanfront.jpg"
 tags: event
 ---
-I was an invited speaker at WEAR IT Festival Berlin 2015. I talked about the WEAR-LEDs. 
+I was an invited speaker at WEAR IT Festival Berlin 2015. I talked about the (http://www.wear-leds.com)[WEAR-LEDs]. 
 
-Here is a short video by [http://video.golem.de/wissenschaft/16047/wear-it-berlin-2015.html](golem) about the event:
+Here is a short video by (http://video.golem.de/wissenschaft/16047/wear-it-berlin-2015.html)[golem] about the event:
 
 <div class="videoWrapper">
 <object width="480" height="270"><param name="movie" value="http://video.golem.de/player/videoplayer.swf?id=16047&autoPl=false"></param><param name="allowFullScreen" value="true"></param><param name="AllowScriptAccess" value="always"></param><embed src="http://video.golem.de/player/videoplayer.swf?id=16047&autoPl=false" type="application/x-shockwave-flash" allowfullscreen="true" AllowScriptAccess="always" width="480" height="270"></embed></object><div style="width:480px; text-align:center; font-family:verdana,sans-serif; font-size:0.8em;"><a href="http://video.golem.de/wissenschaft/16047/wear-it-berlin-2015.html">Video: Wear-IT-Berlin 2015 - Bericht</a>&nbsp;(0:50)</div>
