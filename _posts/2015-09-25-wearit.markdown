@@ -2,7 +2,7 @@
 layout:     post
 title:      "WEAR IT Festival 2015"
 subtitle:   "Smart Fashion"
-date:       2015-09-11 08:00:00
+date:       2015-09-25 08:00:00
 author:     "René"
 header-img: "img/fabscanfront.jpg"
 tags: event
