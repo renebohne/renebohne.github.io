@@ -4,7 +4,7 @@ title:      "FabQR"
 subtitle:   "Using QR Codes in the FabLab Workflow"
 date:       2015-07-26 07:00:00
 author:     "René"
-header-img: "img/fabscanfront.jpg"
+header-img: "img/post-bg.jpg"
 tags: project
 ---
 I supervised this Bachelor's thesis by Christian Frohn.
