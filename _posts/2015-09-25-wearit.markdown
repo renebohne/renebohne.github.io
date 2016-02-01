@@ -4,7 +4,7 @@ title:      "WEAR IT Festival 2015"
 subtitle:   "Smart Fashion"
 date:       2015-09-25 08:00:00
 author:     "René"
-header-img: "img/fabscanfront.jpg"
+header-img: "img/wearleds.jpg"
 tags: event
 ---
 I was an invited speaker at WEAR IT Festival Berlin 2015. I talked about the [WEAR-LEDs](http://www.wear-leds.com). 
