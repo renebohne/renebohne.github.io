@@ -13,7 +13,7 @@ Here is a short video by [golem](http://www.golem.de/news/wearables-vom-kunstobj
 
 <div class="videoWrapper">
 <video>
-<source src="http://video.golem.de/files/1/1/16047/wear-it-berlin-2015-bericht-hd.mp4?start=0.00" type="video/mp4" />
+<source src="http://video.golem.de/files/1/1/16047/wear-it-berlin-2015-bericht-hd.mp4" type="video/mp4" />
 </video>
 </div>
 
