@@ -10,8 +10,9 @@ description: "Maker tales from Germany"
 -->
 <div id="main">
 
-<iframe width="90%" src="https://www.youtube.com/embed/oCuQx1q-OJs?rel=0" frameborder="0" allowfullscreen></iframe>
-
+<div class="videoWrapper">
+<iframe width="90%" src="https://www.youtube.com/embed/oCuQx1q-OJs?rel=0" frameborder="0" width="560" height="315" allowfullscreen></iframe>
+</div>
 {% for post in paginator.posts %}
 <div class="post-preview">
     <a href="{{ post.url | prepend: site.baseurl }}">

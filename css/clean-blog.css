@@ -411,8 +411,12 @@ body {
     padding-bottom: 56.25%; /* 16:9 */
     padding-top: 25px;
     height: 0;
+    overflow: hidden;
 }
-.videoWrapper iframe {
+.videoWrapper iframe,
+.videoWrapper object,
+.videoWrapper embed
+{
     position: absolute;
     top: 0;
     left: 0;
@@ -420,9 +424,11 @@ body {
     height: 100%;
 }
 
+
 /* To center images */
 .center-image
 {
     margin: 0 auto;
     display: block;
 }
+
