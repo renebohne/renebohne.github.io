@@ -4,7 +4,7 @@ title:      "openVNAVI"
 subtitle:   "A Vibrotactile Navigation Aid for the Visually Impaired"
 date:       2015-08-21 07:00:00
 author:     "René"
-header-img: "img/post-bg-01.jpg"
+header-img: "img/openvnavi.png"
 tags: project
 ---
 I supervised this Bachelor's thesis by David Antón Sánchez.
