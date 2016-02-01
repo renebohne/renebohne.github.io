@@ -4,7 +4,7 @@ title:      "Berlin leuchtet"
 subtitle:   "Lichtermarkt"
 date:       2015-10-16 08:00:00
 author:     "René"
-header-img: "img/post-bg.jpg"
+header-img: "img/led.jpg"
 tags: workshop Berlin event
 ---
 
