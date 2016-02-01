@@ -12,6 +12,6 @@ I was an invited speaker at WEAR IT Festival Berlin 2015. I talked about the [WE
 Here is a short video by [golem](http://www.golem.de/news/wearables-vom-kunstobjekt-zur-massenproduktion-1509-116551.html) about the event:
 
 <div class="videoWrapper">
-<video src="http://video.golem.de/files/1/1/16047/wear-it-berlin-2015-bericht-hd.mp4" controls> HTML5 Video is required for this video</video> 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y-Cl6NJasos" frameborder="0" allowfullscreen></iframe>
 </div>
 
