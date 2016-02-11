@@ -3,14 +3,12 @@ layout: page
 title: "Events"
 description: "Talks, Workshops, Conferences"
 ---
-
-<div id="main">
-
-    <ul>    
+<div class="list-group">
+  
     {% for post in site.posts %}
         {% if post.tags contains 'event' %}
-        <li><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>,{{ post.date | date: ' %Y' }}</li>
+        <a class="list-group-item" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }},{{ post.date | date: ' %Y' }}</a>
         {% endif %}
     {% endfor %}
-    </ul>    
 </div>
+
