@@ -7,7 +7,7 @@ description: "Projects"
   
     {% for post in site.posts %}
         {% if post.tags contains 'project' %}
-        <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }},{{ post.date | date: ' %Y' }}</a>
+        <a class="list-group-item" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }},{{ post.date | date: ' %Y' }}</a>
         {% endif %}
     {% endfor %}
 </div>
