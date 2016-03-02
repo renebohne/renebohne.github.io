@@ -6,7 +6,7 @@ date:       2016-02-02 08:00:00
 author:     "René"
 ---
 
-At the moment, Simone Giertz is my favorite maker on YouTube! She has many great projects, but my favorite one is the breakfast machine:
+At the moment, Simone Giertz is my favorite maker on YouTube! She has many great projects, but the best one is her breakfast machine:
 <div class="videoWrapper">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/E2evC2xTNWg" frameborder="0" allowfullscreen></iframe>
 </div>
