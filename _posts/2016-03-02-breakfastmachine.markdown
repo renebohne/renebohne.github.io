@@ -11,7 +11,7 @@ At the moment, Simone Giertz is my favorite maker on YouTube! She has many great
 <iframe width="560" height="315" src="https://www.youtube.com/embed/E2evC2xTNWg" frameborder="0" allowfullscreen></iframe>
 </div>
 
-Breakfast is the meal of the day that I miss too often. And of cource this is because I don't have a smart robot that feeds me!
+Breakfast is the meal of the day that I miss too often. And of course this is because I don't have a smart robot that feeds me!
 
 > Skipping breakfast is bad and I needed a change. Getting up earlier in the morning and finally becoming the grown-up my ID tells me I am? 
 Not going to happen. I’m self-aware enough to know I only make good decisions out of total desperation, and I wasn’t there yet.
