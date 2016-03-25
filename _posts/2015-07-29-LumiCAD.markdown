@@ -11,9 +11,10 @@ I supervised this Bachelor's thesis by Salsabil Hamadache.
 
 ![LumiCAD]({{ site.url }}/img/lumicad.jpg){: .center-image }
 
-##About
+## About
 
 LumiCAD is an interactive Processing program with which one can 'grow' an individual lamp to then 3D print it. The design is supposed to look organic and natural and above all, unique in every usage, and the interaction is in the focus of the program, as it is supposed to be a step towards interactive personal fabrication.
 
-##More Information
+## More Information
+
 [http://hci.rwth-aachen.de/lumicad](http://hci.rwth-aachen.de/lumicad)
