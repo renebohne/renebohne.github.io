@@ -12,9 +12,9 @@ I supervised this Master's thesis by Clio Kakoulli.
 ![IdeaBall](http://hci.rwth-aachen.de/img/wiki_up/ideaballnavigator_highlevel.png){: .center-image }
 
 
-##About
+## About
 IdeaBall is a physical prototype for controlling turn-taking and recording brainstorming sessions. It is used in conjuction with the IdeaBallNavigator, a desktop application for logging and displaying information gathered by the IdeaBall.
 
 
-##More Information
+## More Information
 [http://hci.rwth-aachen.de/ideaball](http://hci.rwth-aachen.de/ideaball)
