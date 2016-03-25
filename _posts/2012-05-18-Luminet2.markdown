@@ -11,7 +11,7 @@ I supervised this Master's thesis by Mariana Bocoi.
 
 ![Luminet2](http://hci.rwth-aachen.de/img/wiki_up/Luminet2_DesignTop.png)
 
-##About
+## About
 
 LumiNet2 is a smart pixel and more. It was developed by Mariana Bocoi as part of her Master's thesis, supervised by René Bohne, and based on Jan Borchers' original LumiNet node design.
 
@@ -23,5 +23,5 @@ Compared to the original LumiNet, LumiNet2 features some hardware design changes
 
 LumiNet2 is smaller and lighter, which makes it easier to integrate them into clothes. All connectors are designed for easy sewing but also soldering of conductive ribbon.
 
-##More Information
+## More Information
 [http://hci.rwth-aachen.de/luminet2](http://hci.rwth-aachen.de/luminet2)
