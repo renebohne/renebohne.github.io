@@ -11,7 +11,7 @@ I supervised this Bachelor's thesis by David Antón Sánchez.
 
 ![openVNAVI](http://hci.rwth-aachen.de/img/wiki_up/vest_front.PNG)
 
-##About
+## About
 
 OpenVNAVI is a vest equipped with a depth sensor and array of vibration motor units that allow people with visual impairment to avoid obstacles in the environment.
 
@@ -21,5 +21,5 @@ The grayscale value of each pixel on the lower resolution frame is assigned to a
 
 With this method the vibration motor unit array is able to represent a vibratory image onto the user’s belly to help create a mental representation of the obstacles in the scene.
 
-##More Information
+## More Information
 [http://hci.rwth-aachen.de/openvnavi](http://hci.rwth-aachen.de/openvnavi)
