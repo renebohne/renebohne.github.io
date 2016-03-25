@@ -11,7 +11,7 @@ I supervised this Bachelor's thesis by Christian Frohn.
 
 ![FabQR](http://hci.rwth-aachen.de/img/wiki_up/fabqr-visicam.png)
 
-##About
+## About
 
 FabQR is aimed at solving the issue that many users of FabLabs do not publish their created projects on a regular basis, which is obstructive for the exchange of knowledge and ideas between FabLab users.
 
@@ -22,5 +22,5 @@ The implementation of FabQR mainly deals with the lasercutter, although the idea
 In the context of the lasercutter these QR codes can additionally be used to create an interactive placing of lasercutting schemes:
 Users can place and rotate their QR code in reality and the identified cutting schemes will be placed and rotated in the lasercutter software (VisiCut) accordingly.
 
-##More Information
+## More Information
 [http://hci.rwth-aachen.de/fabqr](http://hci.rwth-aachen.de/fabqr)
