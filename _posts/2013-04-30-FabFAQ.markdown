@@ -11,11 +11,11 @@ I supervised this Diploma thesis by Radek Paluszak.
 
 ![FabFAQ](http://hci.rwth-aachen.de/img/wiki_up/FabFAQ.png)
 
-##About
+## About
 
 FabFAQ is a learning platform for the personal fabrication domain. It focuses on the demand-driven learning techniques observed in the fab lab domain and transports this approach onto a web platform which is always available. The platform is designed as a Thingiverse add on, in order to give the users access to Thingiverse resources and the broad user-base.
 
 The platforms allows the users to ask questions related to personal fabrication. For successful contributions the users are rewarded with points and badges which motivate them in participating. FabFAQ also supports a tagging system which, for example, allows to connect with the users from a local fab lab. Through this a fab lab master can also help his users outside the open lab days.
 
-##More Information
+## More Information
 [http://hci.rwth-aachen.de/fabfaq](http://hci.rwth-aachen.de/fabfaq)
