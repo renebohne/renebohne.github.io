@@ -9,12 +9,12 @@ tags: project
 ---
 I supervised this Master's thesis by Zhao He.
 
-##About
+## About
 Fabiji is a mobile kiosk with an embedded iPad that offers a whole new experience for creating and sharing documentation at fab labs. 
 
 <div class="videoWrapper">
 <iframe src="https://player.vimeo.com/video/38198400" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 </div>
 
-##More Information
+## More Information
 [http://hci.rwth-aachen.de/fabiji](http://hci.rwth-aachen.de/fabiji)
