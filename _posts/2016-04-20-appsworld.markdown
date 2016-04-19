@@ -2,7 +2,7 @@
 layout:     post
 title:      "Apps World Germany"
 subtitle:   "The Internet of Textile Things"
-date:       2016-04-20 08:00:00
+date:       2016-04-20 01:00:00
 author:     "René"
 ---
 On April 20th, 2016, I am part of a panel discussion about "Engaging with The Consumer Through Creating an Effective User Interface and Design".
