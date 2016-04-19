@@ -4,7 +4,7 @@ title:      "Apps World Germany"
 subtitle:   "The Internet of Textile Things"
 date:       2016-04-19 08:00:00
 author:     "René"
-header-img: "img/appsworld2016.jpg"
+header-img: "img/wearables.jpg"
 tags: event Berlin
 ---
 On April 20th, 2016, I am part of a panel discussion about "Engaging with The Consumer Through Creating an Effective User Interface and Design".
