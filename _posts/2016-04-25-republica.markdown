@@ -14,4 +14,5 @@ On May 4th, 2016 at 10:30, I will give my second talk on stage L at re:publica. 
 Find more information here: 
 <https://re-publica.de/16/session/internet-textile-things>{:target="_blank"}
 
-Add the event to your calender: https://re-publica.de/schedule/session/7893/rp-item.ics
+Add the event to your calender: 
+[![add to calendar](https://re-publica.de/sites/all/modules/date_ical/images/ical-feed-icon-34x14.png)](https://re-publica.de/schedule/session/7893/rp-item.ics) 
