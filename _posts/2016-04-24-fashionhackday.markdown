@@ -11,7 +11,7 @@ I am a participant at the Fashion Hack Day Berlin 2016.
 This event connects the most forward thinking Fashion Designers and Technologists. It is taking place in Berlin, April 29 – May 1, 2016
 
 # Our group
-Our group will create a dress that visualizes brain waves. We will use bluetooth technology and advanced microcontrollers.
+Our group is called FASTECH and will create a dress that visualizes brain waves. We will use bluetooth technology and advanced microcontrollers.
 
 The team members are:
 * Bernardo Noisy Pig Santarelli
