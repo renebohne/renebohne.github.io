@@ -12,7 +12,6 @@ On May 4th, 2016 at 10:30, I will give my second talk on stage L at re:publica. 
 ![Apps World]({{ site.baseurl }}/img/republica2016slide.jpg){: .center-image }
 
 Find more information here: 
-
-[https://re-publica.de/16/session/internet-textile-things]{: target=_blank }
+<https://re-publica.de/16/session/internet-textile-things>{:target="_blank"}
 
 Add the event to your calender: https://re-publica.de/schedule/session/7893/rp-item.ics
