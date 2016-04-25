@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "re:publica ten"
+title:      "re:publica TEN"
 subtitle:   "The Internet of Textile Things"
 date:       2016-04-25 08:00:00
 author:     "René"
