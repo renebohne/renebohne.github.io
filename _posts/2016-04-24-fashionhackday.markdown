@@ -14,6 +14,7 @@ This event connects the most forward thinking Fashion Designers and Technologist
 Our group is called FASTECH and will create a dress that visualizes brain waves. We will use bluetooth technology and advanced microcontrollers.
 
 The team members are:
+
 * Bernardo Noisy Pig Santarelli
 * Ilona Lena Karacsony
 * Jasna Rokegem
