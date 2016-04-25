@@ -18,11 +18,10 @@ description: "Maker tales from Germany"
       {% assign images = post.content | split:"<img " %}
       {% for image in images %}
         {% if image contains 'src' %}
-
-            {% if foundImage == 0 %}
+            {% if image contains 'jpg' %}
                 {% assign html = image | split:"/>" | first %}
                 <img {{ html }} />
-                {% assign foundImage = 1 %}
+                {% break %}
             {% endif %}
         {% endif %}
       {% endfor %}
