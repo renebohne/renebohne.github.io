@@ -4,7 +4,7 @@ title:      "Fashion Hack Day"
 subtitle:   "Berlin 29.4.-1.5.2016"
 date:       2016-04-24 08:00:00
 author:     "René"
-header-img: "img/bg_fhd.jpg"
+header-img: "img/wearables.jpg"
 tags: event Berlin
 ---
 I am a participant at the Fashion Hack Day Berlin 2016. 
