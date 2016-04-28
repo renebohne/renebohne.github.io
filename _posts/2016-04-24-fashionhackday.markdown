@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "Fashion Hack Day"
-subtitle:   "Berlins"
+subtitle:   "Berlin 29.4.-1.5.2016"
 date:       2016-04-24 08:00:00
 author:     "René"
 header-img: "img/bg_fhd.jpg"
