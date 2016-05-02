@@ -20,6 +20,7 @@ At 17:30, I will be a member of the fishbowl about VR and fashion. I will discus
 Find more information here:
 
 <https://re-publica.de/16/session/internet-textile-things>{:target="_blank"}
+
 <https://re-publica.de/16/session/fishbowl-fashiontech>{:target="_blank"}
  
 Add the events to your calendar! 
