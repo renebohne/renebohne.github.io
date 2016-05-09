@@ -15,6 +15,10 @@ On May 4th, 2016 at 10:30, I gave my second __talk on stage L__ at re:publica. I
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-gyl7Od3-_U" frameborder="0" allowfullscreen></iframe>
 </div>
 
+
+## Slides
+<iframe src="https://docs.google.com/presentation/d/1gnA8nTWYxQCek8CzQJiHVp-G-ZMNdxzrwFaHar1sGPc/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
 # Fishbowl
 At 17:30, I was a member of the fishbowl about VR and fashion. I discussed with Lisa Lang, Gabriel Platt, and Anna Rojahn how VR can be used for fashion.
 
