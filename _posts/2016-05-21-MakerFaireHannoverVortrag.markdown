@@ -4,7 +4,7 @@ title:      "Maker Faire Hannover Talk"
 subtitle:   "Wie ich mal LEDs auf Kleidung gebügelt habe"
 date:       2016-05-21 08:00:00
 author:     "René"
-header-img: "img/bg_wearables.jpg"
+header-img: "img/wearables.jpg"
 tags: event talk Hannover
 ---
 # Talk
