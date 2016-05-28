@@ -9,7 +9,7 @@ tags: event talk Hannover
 ---
 # Vortrag
 
-Am 28. Mai um 14:45 Uhr halte ich einen Vortrag auf der Maker Faire Hannover über meine Geschichte "Wie ich mal LEDs auf Kleidung gebügelt habe".
+Am __28. Mai um 14:45 Uhr in Vortragsraum 1__ halte ich einen Vortrag auf der Maker Faire Hannover über meine Geschichte "Wie ich mal LEDs auf Kleidung gebügelt habe".
 
 ## Folien
 
@@ -21,4 +21,4 @@ Am 28. Mai um 14:45 Uhr halte ich einen Vortrag auf der Maker Faire Hannover üb
 
 Gibt es hier:
 
-<Wie ich mal LEDs auf Kleidung gebügelt habe>{:target="_blank"}
+<Wie ich mal LEDs auf Kleidung gebügelt habe>[http://maker-faire.de/hannover/vortrag/wie-ich-mal-leds-auf-kleidung-gebuegelt-habe/]{:target="_blank"}
