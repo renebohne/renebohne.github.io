@@ -21,4 +21,4 @@ Am __28. Mai um 14:45 Uhr in Vortragsraum 1__ halte ich einen Vortrag auf der Ma
 
 Gibt es hier:
 
-<Wie ich mal LEDs auf Kleidung gebügelt habe>[http://maker-faire.de/hannover/vortrag/wie-ich-mal-leds-auf-kleidung-gebuegelt-habe/]{:target="_blank"}
+<Wie ich mal LEDs auf Kleidung gebügelt habe>(http://maker-faire.de/hannover/vortrag/wie-ich-mal-leds-auf-kleidung-gebuegelt-habe/){:target="_blank"}
