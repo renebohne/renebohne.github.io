@@ -9,13 +9,11 @@ tags: project
 ---
 FabScan Pi is the next generation of our famous Open-Source DIY FabScan 3D-Scanner. We ported the FabScan software to the Raspberry Pi!
 
+<img src="{{ site.url }}/img/IMG_0392.JPG">
+
 The user can control the 3D scanner with a web browser, including mobile browsers on a smartphone.
 
 I supervised this bachelor's thesis by Mario Lukas.
-
-## New housing
-
-<img src="{{ site.url }}/img/IMG_0392.JPG">
 
 <img src="{{ site.url }}/img/IMG_0393.JPG">
 
