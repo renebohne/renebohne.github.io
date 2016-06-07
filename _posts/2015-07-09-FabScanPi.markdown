@@ -15,9 +15,9 @@ I supervised this bachelor's thesis by Mario Lukas.
 
 ## New housing
 
-![open]({{ site.baseurl }}/img/IMG_0392.JPG){: .center-image }
+![closed]({{ site.baseurl }}/img/IMG_0392.JPG){: .center-image }
 
-![closed]({{ site.baseurl }}/img/IMG_0393.JPG){: .center-image }
+![open]({{ site.baseurl }}/img/IMG_0393.JPG){: .center-image }
 
 ## New UI
 
