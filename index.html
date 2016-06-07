@@ -23,6 +23,11 @@ description: "Maker tales from Germany"
                 <img {{ html }} />
                 {% break %}
             {% endif %}
+            {% if image contains 'JPG' %}
+                {% assign html = image | split:"/>" | first %}
+                <img {{ html }} />
+                {% break %}
+            {% endif %}
         {% endif %}
       {% endfor %}
         
