@@ -16,7 +16,7 @@ In this tutorial, you will learn how to install C# on the Raspberry Pi and how t
 
 # Install Mono
 
-In order to run .NET applications on the Raspbery Pi, we need to install Mono.
+In order to run .NET applications on the Raspberry Pi, we need to install Mono.
 
 First, we need to update the Pi and make sure that the most important packages are installed:
 
