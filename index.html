@@ -13,7 +13,7 @@ description: "Maker tales from Germany"
             {{ post.subtitle }}
         </h3>
         {% endif %}
-        
+
          {% assign foundImage = 0 %}
       {% assign images = post.content | split:"<img " %}
       {% for image in images %}
@@ -28,9 +28,19 @@ description: "Maker tales from Germany"
                 <img {{ html }} />
                 {% break %}
             {% endif %}
+            {% if image contains 'png' %}
+                {% assign html = image | split:"/>" | first %}
+                <img {{ html }} />
+                {% break %}
+            {% endif %}
+            {% if image contains 'PNG' %}
+                {% assign html = image | split:"/>" | first %}
+                <img {{ html }} />
+                {% break %}
+            {% endif %}
         {% endif %}
       {% endfor %}
-        
+
     </a>
 </div>
 <hr>
@@ -51,4 +61,3 @@ description: "Maker tales from Germany"
     {% endif %}
 </ul>
 {% endif %}
-
