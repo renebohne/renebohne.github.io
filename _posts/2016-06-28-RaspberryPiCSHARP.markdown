@@ -50,7 +50,7 @@ cp bin/Debug/RaspberryPiDotNet.dll /home/pi/gpio_csharp/
 ```
 More information: https://github.com/raspberry-sharp/raspberry-sharp-io
 
-The RaspberryPi.Net project need the bcm2835 C library. We compile it and prepare it for our project. I use Version 1.50:
+The RaspberryPi.Net project needs the bcm2835 C library. We compile it and prepare it for our project. I use Version 1.50:
 
 ```
 wget http://www.airspayce.com/mikem/bcm2835/bcm2835-1.50.tar.gz
@@ -106,4 +106,4 @@ mcs HelloPi.cs -r:RaspberryPiDotNet.dll
 sudo mono --runtime=v4.0 HelloPi.exe
 ```
 
-You could have also used Visual Studio 2015 on Windows 10 for writing this code and compiling it.
+You could have also used Visual Studio 2015 on Windows 10 for writing this code and compiling it. I will show a nice trick that makes it even easier in the next tutorial.
