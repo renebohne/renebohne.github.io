@@ -8,7 +8,7 @@ header-img: "img/raspberrypi.jpg"
 tags: event talk Berlin
 ---
 
-Auf der Maker Faire 2016 ist mal wieder viel los!
+Auf der Maker Faire Berlin 2016 ist mal wieder viel los!
 Am Freitag nehme ich am Make Light Symposium teil und abends wird gentztwerkt mit den anderen Makern. Samstag und Sonntag ist dann die eigentliche Maker Faire.
 
 # Samstag
