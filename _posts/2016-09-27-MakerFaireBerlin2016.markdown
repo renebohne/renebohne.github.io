@@ -18,7 +18,7 @@ Hier gibt es mehr Infos:
 http://maker-faire.de/vortrag/berlin/2016/wie-ich-mal-leds-auf-kleidung-gebuegelt-habe/
 
 
-![Dremel Amp]({{ site.baseurl }}/img/mfb16DremelAmp.jpeg){: .center-image }
+![Dremel Amp]({{ site.baseurl }}/img/mfb16DremelAmp.jpg){: .center-image }
 Die meiste Zeit bin ich dann am Stand von Dremel (Stand 73), wo ich ein Exponat ausstelle und live daran basteln werde. Es wird einen live Videostream geben und wir drehen einen kleinen Film von der Veranstaltung.
 Ich habe auch einen kleinen Video-Teaser für das Projekt auf Youtube gestellt:
 <div class="VideoWrapper">
