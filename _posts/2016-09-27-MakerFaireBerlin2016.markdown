@@ -15,8 +15,7 @@ Am Freitag nehme ich am Make Light Symposium teil und abends wird gentztwerkt mi
 
 Am Samstag eröffne ich das Vortragsprogramm der Maker Faire mit meinem Vortrag über Wearables und intelligente Kleidung.
 Hier gibt es mehr Infos:
-http://maker-faire.de/vortrag/berlin/2016/wie-ich-mal-leds-auf-kleidung-gebuegelt-habe/
-
+[http://maker-faire.de/vortrag/berlin/2016/wie-ich-mal-leds-auf-kleidung-gebuegelt-habe/](http://maker-faire.de/vortrag/berlin/2016/wie-ich-mal-leds-auf-kleidung-gebuegelt-habe/){:target="_blank"}
 
 ![Dremel Amp]({{ site.baseurl }}/img/mfb16DremelAmp.jpg){: .center-image }
 Die meiste Zeit bin ich dann am Stand von Dremel (Stand 73), wo ich ein Exponat ausstelle und live daran basteln werde. Es wird einen live Videostream geben und wir drehen einen kleinen Film von der Veranstaltung.
@@ -28,4 +27,6 @@ Die Aufgabe, die Dremel uns gestellt hat, war ganz einfach: wir schicken euch Co
 
 # Sonntag
 Der Sonntag gehört unserem Verein. Am Stand von freie Maker e.V. werde ich den Besuchern erklären, was unsere Ziele sind und wie man zum freien Maker wird.
-http://maker-faire.de/maker/berlin/2016/freie-maker-e-v/
+
+
+[http://maker-faire.de/maker/berlin/2016/freie-maker-e-v/](http://maker-faire.de/maker/berlin/2016/freie-maker-e-v/){:target="_blank"}
