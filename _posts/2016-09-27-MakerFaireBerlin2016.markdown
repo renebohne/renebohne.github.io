@@ -35,7 +35,10 @@ Die Aufgabe, die Dremel uns gestellt hat, war ganz einfach: "wir schicken euch C
 
 ## Interview mit Deutschlandfunk
 
-Manfred Kloiber vom Deutschlandfunk hatte einen Ü-Wagen dabei und wir haben live im Radio über den Verein freie Maker e.V. gesprochen und über Maker, Makerspaces und Fab Labs - und darüber, wo die Reise hingeht. [Hier geht es zum Interview](http://www.deutschlandfunk.de/maker-faire-renaissance-des-guten-alten-radiobastelns.684.de.html?dram:article_id=367430){:target="_blank"}
+Manfred Kloiber vom Deutschlandfunk hatte einen Ü-Wagen dabei und wir haben live im Radio über den Verein freie Maker e.V. gesprochen und über Maker, Makerspaces und Fab Labs - und darüber, wo die Reise hingeht. 
+
+[Hier geht es zum Interview](http://www.deutschlandfunk.de/maker-faire-renaissance-des-guten-alten-radiobastelns.684.de.html?dram:article_id=367430){:target="_blank"}
+
 Und hier der mp3 Stream vom Deutschlandfunk. Wenn der Beitrag verschwindet, ist er wahrscheinlich nicht mehr auf den Servern vom Deutschlandfunk verfügbar:
 <audio controls><source src="http://ondemand-mp3.dradio.de/file/dradio/2016/10/01/computer_und_kommunikation_01102016_komplette_sendung_dlf_20161001_1630_78d2d04c.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio>
 
