@@ -21,5 +21,5 @@ Ich habe den Flyer mal als jpgs hochgeladen, damit es was zum Anschauen gibt:
 ![Flyer Seite 1]({{ site.baseurl }}/img/LICHT-DIALOG_2016-001.jpg){: .center-image }
 
 
-![Flyer Seite 12({{ site.baseurl }}/img/LICHT-DIALOG_2016-002.jpg){: .center-image }
+![Flyer Seite 2]({{ site.baseurl }}/img/LICHT-DIALOG_2016-002.jpg){: .center-image }
 
