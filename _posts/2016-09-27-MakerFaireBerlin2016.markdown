@@ -2,31 +2,40 @@
 layout:     post
 title:      "Maker Faire Berlin 2016"
 subtitle:   "In der STATION Berlin"
-date:       2016-09-27 08:00:00
+date:       2016-10-04 08:00:00
 author:     "René"
-header-img: "img/raspberrypi.jpg"
+header-img: "img/opentechsummit.jpg"
 tags: event talk Berlin
 ---
 
-Auf der Maker Faire Berlin 2016 ist mal wieder viel los!
-Am Freitag nehme ich am Make Light Symposium teil und abends wird gentztwerkt mit den anderen Makern. Samstag und Sonntag ist dann die eigentliche Maker Faire.
+Auf der Maker Faire Berlin 2016 war mal wieder viel los! Über 17500 Besucher haben die Projekte an den Ständen von mehr als 200 Makern angeguckt und ausprobiert. 
+Am Freitag hatte ich am Make Light Symposium teilgenommen und abends die Eröffnungfeier des HappyLabs besucht. Samstag und Sonntag war dann die eigentliche Maker Faire.
 
 # Samstag
 
-Am Samstag eröffne ich das Vortragsprogramm der Maker Faire mit meinem Vortrag über Wearables und intelligente Kleidung.
+Am Samstag eröffnete ich das Vortragsprogramm der Maker Faire mit meinem Vortrag über Wearables und intelligente Kleidung.
 Hier gibt es mehr Infos:
 [http://maker-faire.de/vortrag/berlin/2016/wie-ich-mal-leds-auf-kleidung-gebuegelt-habe/](http://maker-faire.de/vortrag/berlin/2016/wie-ich-mal-leds-auf-kleidung-gebuegelt-habe/){:target="_blank"}
 
+## freie-Maker-Award für Wolfgang Back
+
+Am Samstag hatte ich gemeinsam mit meinem Kumpel Mario Lukas die große Bühne spontan übernommen, um dem bekannten TV-Moderator Wolfgang Back den Freie-Maker-Award zu überreichen. 
+![Wolfgang Back Award]({{ site.baseurl }}/img/Back_Bohne_Award_klein.jpg){: .center-image }
+Der Preisträger ist bekannt aus der Hobbythek und dem WDR Computer Club. Damals haben sie z.B. Computerprogramme in Form von Audiosignalen am Ende jeder Sendung übermittelt. Die Zuschauer konnten diese Töne mit einem Diktiergerät aufzeichnen und anschließend in ihre Computer laden, die damals noch Datasetten besaßen. Das war lange vor dem Internet! Später ging man dazu über, die Programme in unsichtbare Zeilen des TV-Bilds zu integrieren. Dieses System ist ein Beispiel für den Einfallsreichtum der Sendung.
+
+## Dremel Maker Day
+
 ![Dremel Amp]({{ site.baseurl }}/img/mfb16DremelAmp.jpg){: .center-image }
-Die meiste Zeit bin ich dann am Stand von Dremel (Stand 73), wo ich ein Exponat ausstelle und live daran basteln werde. Es wird einen live Videostream geben und wir drehen einen kleinen Film von der Veranstaltung.
+Die meiste Zeit war ich am Stand von Dremel (Stand 73), wo ich ein Exponat ausgestellt und live daran gebastelt habe. Es gab einen live Videostream und wir haben einen kleinen Film über die Maker Faire gedreht. Mehr Infos zum Dremel Maker Day auf der Maker Faire Berlin gibt es [hier](http://www.dremelmakerday.net).
 Ich habe auch einen kleinen Video-Teaser für das Projekt auf Youtube gestellt:
 <div class="VideoWrapper">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zdgiwz8fftU" frameborder="0" allowfullscreen></iframe>
 </div>
-Die Aufgabe, die Dremel uns gestellt hat, war ganz einfach: wir schicken euch Computer-Schrott und ihr baut daraus etwas geiles! Ich habe den Apple PowerMac G5 ausgeschlachtet und einen Gitarrenverstärker in das Gehäuse eingebaut. Aus einer alten Gitarre habe ich Hardware ausgebaut, um so ein Saiteninstrument aus dem alten Computer zu erschaffen. Der Tonabnehmer ist 3D-gedruckt und soll auf der Maker Faire noch verbessert werden. Natürlich wäre das kein Maker Projekt, wenn ich nicht einen Arduino und 115 LEDs eingebaut hätte!
+Die Aufgabe, die Dremel uns gestellt hat, war ganz einfach: "wir schicken euch Computer-Schrott und ihr baut daraus etwas geiles!" Ich habe den Apple PowerMac G5 ausgeschlachtet und einen Gitarrenverstärker in das Gehäuse eingebaut. Aus einer alten Gitarre habe ich Hardware ausgebaut, um so ein Saiteninstrument aus dem alten Computer zu erschaffen. Der Tonabnehmer ist 3D-gedruckt und sollte auf der Maker Faire noch verbessert werden. Natürlich wäre das kein Maker Projekt, wenn ich nicht einen Arduino und 115 LEDs eingebaut hätte!
 
 # Sonntag
-Der Sonntag gehört unserem Verein. Am Stand von freie Maker e.V. werde ich den Besuchern erklären, was unsere Ziele sind und wie man zum freien Maker wird.
-
+Der Sonntag gehörte unserem Verein. Am Stand von freie Maker e.V. habe ich den Besuchern erklärt, was unsere Ziele sind und wie man zum freien Maker wird.
 
 [http://maker-faire.de/maker/berlin/2016/freie-maker-e-v/](http://maker-faire.de/maker/berlin/2016/freie-maker-e-v/){:target="_blank"}
+
+
