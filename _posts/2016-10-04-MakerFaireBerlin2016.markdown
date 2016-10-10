@@ -4,7 +4,7 @@ title:      "Maker Faire Berlin 2016"
 subtitle:   "In der STATION Berlin"
 date:       2016-10-04 08:00:00
 author:     "René"
-header-img: "img/opentechsumit.jpg"
+header-img: "img/freie-maker-award-back.jpg"
 tags: event talk Berlin
 ---
 
