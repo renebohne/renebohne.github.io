@@ -26,4 +26,4 @@ Ich habe den Flyer mal als jpgs hochgeladen, damit es was zum Anschauen gibt:
 
 <iframe src="https://docs.google.com/presentation/d/1HcY_eiE7sMjMOqY1OM2XQpj0mKj6sIgW4OrhFmVX45I/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
-![Download PDF]({{ site.baseurl }}/pdfs/LichtDialog_Wearables.pdf)
+[Download PDF]({{ site.baseurl }}/pdfs/LichtDialog_Wearables.pdf)
