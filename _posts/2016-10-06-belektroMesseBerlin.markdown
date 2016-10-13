@@ -4,7 +4,7 @@ title:      "belektro Berlin 2016"
 subtitle:   "Vortrag über Wearables und Licht"
 date:       2016-10-06 08:00:00
 author:     "René"
-header-img: "img/wwearables.jpg"
+header-img: "img/wearables.jpg"
 tags: event talk Berlin
 ---
 
