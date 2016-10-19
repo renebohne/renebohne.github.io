@@ -33,10 +33,10 @@ Auf dem nodeMCU läuft von Haus aus ein lua Interpreter. Wir wollen aber Javascr
 Auf dem nodeMCU Board ist ein Taster namens FLASH. Dieser muss gedrückt gehalten werden während das USB Kabel in den PC gesteckt wird. Das Board wird dadurch in den FLASH-Modus versetzt.
 
 Es gibt verschiedene Werkzeuge, um neue Firmware auf diese Boards zu laden. Unter Windows verwende ich nodemcu-flasher:
-[https://github.com/nodemcu/nodemcu-flasher](https://github.com/nodemcu/nodemcu-flasher)
+[https://github.com/nodemcu/nodemcu-flasher](https://github.com/nodemcu/nodemcu-flasher){:target="_blank"}
 
 Wir wollen aber nicht die nodeMCU Firmware auf das Board spielen, sondern die Espruino Firmware. Diese gibt es in Form einer ZIP-Datei hier:
-http://www.espruino.com/Download
+[http://www.espruino.com/Download](http://www.espruino.com/Download){:target="_blank"}
 
 Die Datei müssen wir herunterladen und entpacken. In dem entpackten Ordner gibt es einen Unterordner mit der Zeichenkette esp8266 im Namen. Ich habe Version 1v87 heruntergeladen, entsprechend heißt der Ordner bei mir espruino_1v87_esp8266.
 
@@ -62,20 +62,22 @@ Nun können Befehle eingegeben werden. Im folgenden Abschnitt wird eine WLAN-Ver
 
 ## WLAN konfigurieren
 
-In diesem Code-Schnipsel müssen my-ssid und my-pwd durch die Zugangsdaten des Accesspoints ersetzt werden:
+In diesem Code-Schnipsel müssen my-ssid und my-pwd durch die Zugangsdaten des Accesspoints ersetzt werden und den beiden Boards sollten eindeutige Namen gegeben werden anstelle von IoTNode1:
+
 ```
 var wifi = require("Wifi");
 wifi.connect("my-ssid", {password:"my-pwd"}, function(err){
   console.log("connected? err=", err, "info=", wifi.getIP());
 });
 wifi.stopAP();
+wifi.setHostname("IoTNode1")
 wifi.save();
 ```
 
 Diese Zeilen kann man einfach in der Espruino Web-IDE eingeben. Die Zugangsdaten für das WLAN werden gespeichert und müssen beim nächsten mal nicht neu eingegeben werden.
 
 Mehr Informationen zu diesem Thema gibt es hier:
-http://www.espruino.com/ESP8266_WifiUsage
+[http://www.espruino.com/ESP8266_WifiUsage](http://www.espruino.com/ESP8266_WifiUsage){:target="_blank"}
 
 # Ausblick
 
