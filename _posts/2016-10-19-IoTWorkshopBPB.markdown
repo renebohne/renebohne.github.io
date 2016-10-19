@@ -12,7 +12,7 @@ Am 26. und 27.11.2016 unterstütze ich einen Hackathon der Bundeszentrale für p
 
 # Kostenlos Anmelden
 Wir suchen nach Teilnehmern aus verschiedenen Fachrichtungen, die sich in das Thema IoT einarbeiten wollen und die sich für politische Bildung interessieren.
-Um kostenlos teilnehmen zu können, bitte per E-Mail anmelden:  [info@werkstatt.bpb.de](mailto:info@werkstatt.bpb.de){:target="_blank"}
+Um kostenlos teilnehmen zu können, bitte per E-Mail anmelden:  [info@werkstatt.bpb.de](mailto:info@werkstatt.bpb.de)
 
 # Ziel
 Auf der Veranstaltungsseite gibt es mehr Informationen, u.a wird das Ziel des Hackathons wie folgt definiert:
