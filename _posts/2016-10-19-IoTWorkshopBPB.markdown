@@ -10,6 +10,11 @@ tags: event hackathon Berlin
 
 Am 26. und 27.11.2016 unterstütze ich einen Hackathon der Bundeszentrale für politische Bildung. Als technischer Mentor begleite ich die Teilnehmer auf ihrer Reise ins Internet der Dinge. Neben verschiedenen Hardwarelösungen wollen wir auch einen Blick auf die Software und die Programmierung von einfachen IoT Lösungen werfen.
 
+# Kostenlos Anmelden
+Wir suchen nach Teilnehmern aus verschiedenen Fachrichtungen, die sich in das Thema IoT einarbeiten wollen und die sich für politische Bildung interessieren.
+Um kostenlos teilnehmen zu können, bitte per E-Mail anmelden:  [info@werkstatt.bpb.de](mailto:info@werkstatt.bpb.de){:target="_blank"}
+
+# Ziel
 Auf der Veranstaltungsseite gibt es mehr Informationen, u.a wird das Ziel des Hackathons wie folgt definiert:
 
 > Ziel des Hackathons ist es, Teilnehmende verschiedener Fachrichtungen zusammenzubringen und gemeinsam an Prototypen zu tüfteln. Inhaltlich wird es um die Frage gehen, wie das Internet der Dinge bzw. vernetzte Technologien für die
