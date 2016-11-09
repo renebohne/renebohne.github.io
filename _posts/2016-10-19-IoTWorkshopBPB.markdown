@@ -20,8 +20,14 @@ Auf der Veranstaltungsseite gibt es mehr Informationen, u.a wird das Ziel des Ha
 > Ziel des Hackathons ist es, Teilnehmende verschiedener Fachrichtungen zusammenzubringen und gemeinsam an Prototypen zu tüfteln. Inhaltlich wird es um die Frage gehen, wie das Internet der Dinge bzw. vernetzte Technologien für die
 politische Bildung und damit für ein selbstbestimmtes Leben genutzt werden können - unter Beachtung datenschutzrechtlicher und ethischer Gesichtspunkte. Das Zusammenleben in einer Migrationsgesellschaft, das heißt auch die Inklusion von Geflüchteten, Asylsuchenden und Eingewanderten, steht bei dieser Veranstaltung besonders im Fokus.   
 
+# Software Installation
+
+In diesem Video erkläre ich kurz, wie man die Software installiert, die wir auf der Veranstaltung verwenden wollen:
+<div class="videoWrapper">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7TH6EAMk44g" frameborder="0" allowfullscreen></iframe>
+</div>
+
 
 [Hier geht es zur Veranstaltungsseite](http://www.bpb.de/lernen/digitale-bildung/werkstatt/233221/hackathon-selbstbestimmt-leben-in-der-vernetzten-gesellschaft){:target="_blank"}
-
 
 ![BPB Flyer]({{ site.baseurl }}/img/werkstatt.bpb_Flyer_Hackathon.jpg){: .center-image }

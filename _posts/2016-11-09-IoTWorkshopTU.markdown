@@ -18,4 +18,11 @@ Auf der Veranstaltungsseite gibt es mehr Informationen und ein Anmeldeformular. 
 [Hier geht es zur Veranstaltungsseite](http://www.entrepreneurship.tu-berlin.de/menue/start_ups_events/veranstaltungen/startup_day/){:target="_blank"}
 
 
+# Software Installation
+
+In diesem Video erkläre ich kurz, wie man die Software installiert, die wir auf der Veranstaltung verwenden wollen:
+<div class="videoWrapper">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7TH6EAMk44g" frameborder="0" allowfullscreen></iframe>
+</div>
+
 ![StarTUpDay]({{ site.baseurl }}/img/startUPday_thumb.png){: .center-image }
