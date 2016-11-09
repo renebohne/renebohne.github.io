@@ -4,7 +4,7 @@ title:      "IoT Workshop "
 subtitle:   "StarTUpDay TU Berlin"
 date:       2016-11-09 08:00:00
 author:     "René"
-header-img: "img/bg-post2.jpg"
+header-img: "img/StarTUpDay.jpg"
 tags: event workshop Berlin
 ---
 
