@@ -5,7 +5,7 @@ subtitle:   "FabMouse project"
 date:       2016-11-10 08:00:00
 author:     "René"
 header-img: "img/fabmouse_bg.jpg"
-tags: üroject
+tags: project
 ---
 
 Back in 2014, some of my students had to create a 3D input device. Their FabMouse is a 3D mouse that you can create with a 3D-printer and some basic electronics.
