@@ -10,7 +10,7 @@ tags: üroject
 
 Back in 2014, some of my students had to create a 3D input device. Their FabMouse is a 3D mouse that you can create with a 3D-printer and some basic electronics.
 
-![FabMouse]({{ site.baseurl }}/img/fabmouse_thumb){: .center-image }
+![FabMouse]({{ site.baseurl }}/img/fabmouse_thumb.jpg){: .center-image }
 
 > Our basic idea was to make a mouse which is not only usable for normal 2D interactions on a computer (like browsing, or using different programs). It should also be able to interact with 3D objects, which the user manipulates with a 3D software. When both these interaction techniques are combined, the user has a mouse suitable for all programs without changing devices, which costs time and could limit the concentration.
 Having this is mind, two aspects are of importance: The mouse housing and the hardware.
