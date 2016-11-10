@@ -1,0 +1,32 @@
+---
+layout:     post
+title:      "DIY 3D Mouse "
+subtitle:   "FabMouse project"
+date:       2016-11-10 08:00:00
+author:     "René"
+header-img: "img/fabmouse_bg.jpg"
+tags: üroject
+---
+
+Back in 2014, some of my students had to create a 3D input device. Their FabMouse is a 3D mouse that you can create with a 3D-printer and some basic electronics.
+
+![FabMouse]({{ site.baseurl }}/img/fabmouse_thumb){: .center-image }
+
+> Our basic idea was to make a mouse which is not only usable for normal 2D interactions on a computer (like browsing, or using different programs). It should also be able to interact with 3D objects, which the user manipulates with a 3D software. When both these interaction techniques are combined, the user has a mouse suitable for all programs without changing devices, which costs time and could limit the concentration.
+Having this is mind, two aspects are of importance: The mouse housing and the hardware.
+
+# Build instructions
+For more details, check out our project pages:
+
+[RWTH project page](http://hci.rwth-aachen.de/fabmouse){:target="_blank"}
+
+[instructable](http://www.instructables.com/id/3D-Mouse/){:target="_blank"}
+
+# Final Presentation
+This video of the final presentation shows all details of the project:
+
+<div class="videoWrapper">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/b-2cQ2s6rko" frameborder="0" allowfullscreen></iframe>
+</div>
+
+
