@@ -5,7 +5,7 @@ subtitle:   "Smart Facades for Smart Houses"
 date:       2014-07-16 08:00:00
 author:     "René"
 header-img: "img/smartskins_bg.jpg"
-tags: event
+tags: project
 ---
 I was one of the supervisors of this interactive sensor network for smart houses.
 
