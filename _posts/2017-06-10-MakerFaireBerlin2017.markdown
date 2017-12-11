@@ -11,6 +11,8 @@ Am 10.+11. Juni 2017 fand in der Station Berlin zum dritten mal die [Maker Faire
 
 > 2017 in Berlin bereits zum dritten Mal! Wir freuen uns, dass rund 900 Maker an fast 200 Ständen und über 50 Workshops und Vorträge mit dabei waren und dass wir 15.200 Besucherinnen und Besucher begrüßen konnten.
 
+![Modellbau]({{ site.baseurl }}/img/mfb17_thmb.jpg){: .center-image }
+
 In alter Tradition habe ich auch dieses Jahr ein kurzes Video gemacht, um einen Überblick über die Veranstaltung zu geben:
 <div class="videoWrapper">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Ak-EWFQIagc?rel=0" frameborder="0" allowfullscreen></iframe>
