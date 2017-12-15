@@ -9,6 +9,10 @@ tags: publication
 ---
 My most favorite TV appearance of all times! I loved WDR Computer Club and it was an honour to be a guest at the Computer Club 2 show in 2011.
 
+![cczwei]({{ site.baseurl }}/img/cczwei67.jpg){: .center-image }
+
+I presented my 3D printer: one of the first Prusa Mendels in Europe. We built it as a preparation for a workshop in Aachen.
+
 <div class="videoWrapper">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7D7YZVSRxUw?rel=0" frameborder="0" allowfullscreen></iframe>
 </div>
