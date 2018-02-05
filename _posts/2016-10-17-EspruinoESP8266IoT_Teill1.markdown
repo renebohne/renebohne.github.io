@@ -4,7 +4,7 @@ title:      "IoT Teil 1: Espruino flashen"
 subtitle:   "IoT mit ESP8266 und Espruino"
 date:       2016-10-17 08:00:00
 author:     "René"
-header-img: "img/bg-IoT.jpg"
+header-img: "img/led.jpg"
 tags: IoT esp8266 tutorial project
 ---
 
