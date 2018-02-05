@@ -3,12 +3,17 @@ layout: page
 title: "Events"
 description: "Talks, Workshops, Conferences"
 ---
+<script>
+  fbq('track', 'ViewContent', {
+    content_type: 'events',
+  });
+</script>
+
 <div class="list-group">
-  
+
     {% for post in site.posts %}
         {% if post.tags contains 'event' %}
         <a class="list-group-item" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }},{{ post.date | date: ' %Y' }}</a>
         {% endif %}
     {% endfor %}
 </div>
-

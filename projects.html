@@ -3,8 +3,14 @@ layout: page
 title: "Projects"
 description: "Projects"
 ---
+<script>
+  fbq('track', 'ViewContent', {
+    content_type: 'projects',
+  });
+</script>
+
 <div class="list-group">
-  
+
     {% for post in site.posts %}
         {% if post.tags contains 'project' %}
         <a class="list-group-item" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }},{{ post.date | date: ' %Y' }}</a>
