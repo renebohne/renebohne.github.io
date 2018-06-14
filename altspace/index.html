@@ -2,7 +2,7 @@
 <html lang=en>
 <head>
 <meta charset=utf-8>
-<title>Touchpad Cube</title>
+<title>Scanissimo Duck</title>
 <script src="https://cdn.rawgit.com/mrdoob/three.js/r84/build/three.min.js"></script>
 <script src="https://cdn.rawgit.com/mrdoob/three.js/r84/examples/js/loaders/STLLoader.js"></script>
 <script src="altspace.min.js"></script>
@@ -10,77 +10,36 @@
 <body>
 </body>
 <script>
+	var duck;
 
-TouchpadCube = (function () {
+	var scene = new THREE.Scene();
+	var renderer = altspace.getThreeJSRenderer({version:'0.2.0'});
 
-	var utilities = altspace.utilities;
-	var behaviors = altspace.utilities.behaviors;
+	var material = new THREE.MeshBasicMaterial({
+		color: 0x00ff00
+	});
 
-	var sim;
-	var connection;
-	var sceneSync;
-	var cube;
-	var cubeModel;
-
-	// Setup
-	function main(_connection) {
-		connection = _connection;
-		sim = new utilities.Simulation();
-		loadCubeModel();//must load model before creating synced cube
-	}
-
-	function onModelReady() {
-		sceneSync = new behaviors.SceneSync(connection.instance, {
-			instantiators: { 'Cube': createCube },
-			ready: ready
-		});
-		sim.scene.addBehavior(sceneSync);
-	}
-
-	function loadCubeModel() {
+	function loadDuckModel() {
 		var loader = new THREE.STLLoader();
 		var stlFilename = "duck_simple.stl";
 		loader.load(stlFilename, function ( obj ) {
-			cubeModel = obj;
-			onModelReady();
+			duck = obj;
+			scene.add(duck);
 		});
 	}
+	loadDuckModel();
 
-	function createCube(initData) {
+	//Update & Rendering
+	function render() {
+		requestAnimationFrame(render);
 
-		cube = cubeModel.clone();
-		cube.scale.multiplyScalar(15);
-		cube.addBehaviors(
-			new behaviors.Object3DSync({ position: true, rotation: true, scale: true }),
-			new behaviors.TouchpadRotate()
-		);
-		cube.name = 'cube';
-		cube.rotation.y += Math.PI / 8;
-		cube.rotation.x += Math.PI / 12;
-		sim.scene.add(cube);
-		return cube;
+		duck.rotation.x += 0.01;
+		duck.rotation.y += 0.01;
+
+		renderer.render(scene);
 	}
+	render();
 
-	function ready(firstInstance) {
-		if (firstInstance) {
-			sceneSync.instantiate('Cube');
-		}
-	}
-
-	return {
-		main: main,
-		getCube: function(){ return cube; },
-	};
-
-}());
-
-
-altspace.utilities.sync.connect({
-	appId: "TouchpadCube",
-	authorId: "AltspaceVR"
-}).then(function (connection) {
-	TouchpadCube.main(connection);
-});
 
 </script>
 </html>
