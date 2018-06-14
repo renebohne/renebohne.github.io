@@ -50,6 +50,7 @@
 	function loadDuckModel() {
 		var loader = new THREE.STLLoader();
 		loader.crossOrigin = 'anonymous';
+		console.log('loader crossOrigin:'+loader.crossOrigin);
 
 		var stlFilename = "duck_simple.stl.html";
 		loader.load(stlFilename, function ( obj ) {
