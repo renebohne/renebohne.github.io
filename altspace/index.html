@@ -48,6 +48,8 @@
 
 	function loadDuckModel() {
 		var loader = new THREE.STLLoader();
+		loader.crossOrigin = '';
+		
 		var stlFilename = "duck_simple.stl";
 		loader.load(stlFilename, function ( obj ) {
 
