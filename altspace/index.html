@@ -8,18 +8,41 @@
 <script src="altspace.min.js"></script>
 </head>
 <body>
+	<div id="test-frame">
+	</div>
 </body>
 <script>
-if (!window.altspace || !window.altspace.inClient) {
-	document.write('<h3>To view this example, please open this page in <a href="http://altvr.com"> AltspaceVR </a></h3>');
-}
-
 	var duck;
 
-	var scene = new Three.Scene();
-	var renderer = altspace.getThreeJSRenderer({version:'0.2.0'});
+	var sim = new altspace.utilities.Simulation();
+	window.sim = sim;
 
 	var material;
+
+	function OrbitBehavior(){
+		this.obj = null;
+	}
+
+	OrbitBehavior.prototype.awake = function(o) {
+		this.obj = o;
+	}
+
+	OrbitBehavior.prototype.update = function(deltatime)
+	{
+		this.obj.visible = true;
+		this.obj.position.x = 0;
+		this.obj.position.y = 0;
+		this.obj.position.z = 0;
+		// We should be calculating the bounding box and matching it up to the innerWidth and innerHeight
+		var scale = altspace.inClient ? 3.6 : 0.4 ;
+		this.obj.scale.x = scale;
+		this.obj.scale.y = scale;
+		this.obj.scale.z = scale;
+
+		this.obj.rotation.y += 0.001;
+	}
+
+
 
 
 
@@ -36,8 +59,9 @@ if (!window.altspace || !window.altspace.inClient) {
 			}
 
 			duck = new THREE.Mesh(obj, material);
-			scene.add(duck);
-			render();
+			duck.addBehaviors(new OrbitBehavior());
+			sim.scene.add(duck);
+
 		});
 	}
 	loadDuckModel();
@@ -46,21 +70,15 @@ if (!window.altspace || !window.altspace.inClient) {
 		altspace.getEnclosure()
 		.then(function (enclosure)
 		{
-			scene.position.y -= enclosure.innerHeight / enclosure.pixelsPerMeter / 3;
+			sim.scene.position.y -= enclosure.innerHeight / enclosure.pixelsPerMeter / 3;
 			duck.scale.multiplyScalar(enclosure.pixelsPerMeter / 80);
 		});
 	}
 
-
-	//Update & Rendering
-	function render() {
-		requestAnimationFrame(render);
-
-		duck.rotation.x += 0.01;
-		duck.rotation.y += 0.01;
-
-		renderer.render(scene);
-	}
+	window.addEventListener('resize', function()
+	{
+			document.getElementById('test-frame').style.visibility = 'visible';
+	});
 
 
 
