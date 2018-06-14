@@ -1,37 +1,86 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang=en>
-	<head>
-		<meta charset=utf-8>
-		<title>My first Three.js app in Altspace</title>
-		<script src="https://cdn.rawgit.com/mrdoob/three.js/r84/build/three.js"></script>
-		<script src="altspace.min.js"></script>
-	</head>
-	<body>
-		<script>
-		if (!window.altspace || !window.altspace.inClient) {
-			document.write('<h3>To view this example, please open this page in <a href="http://altvr.com"> AltspaceVR </a></h3>');
-		}
+<head>
+<meta charset=utf-8>
+<title>Touchpad Cube</title>
+<script src="https://cdn.rawgit.com/mrdoob/three.js/r84/build/three.min.js"></script>
+<script src="https://cdn.rawgit.com/mrdoob/three.js/r84/examples/js/loaders/STLLoader.js"></script>
+<script src="altspace.min.js"></script>
+</head>
+<body>
+</body>
+<script>
 
-		var scene = new THREE.Scene();
-		var renderer = altspace.getThreeJSRenderer({version:'0.2.0'});
+TouchpadCube = (function () {
 
-		var geometry = new THREE.BoxGeometry(200, 200, 200);
-		var material = new THREE.MeshBasicMaterial({
-			color: 0x00ff00
+	var utilities = altspace.utilities;
+	var behaviors = altspace.utilities.behaviors;
+
+	var sim;
+	var connection;
+	var sceneSync;
+	var cube;
+	var cubeModel;
+
+	// Setup
+	function main(_connection) {
+		connection = _connection;
+		sim = new utilities.Simulation();
+		loadCubeModel();//must load model before creating synced cube
+	}
+
+	function onModelReady() {
+		sceneSync = new behaviors.SceneSync(connection.instance, {
+			instantiators: { 'Cube': createCube },
+			ready: ready
 		});
-		var cube = new THREE.Mesh(geometry, material);
-		scene.add(cube);
+		sim.scene.addBehavior(sceneSync);
+	}
 
-		//Update & Rendering
-		function render() {
-			requestAnimationFrame(render);
+	function loadCubeModel() {
+		var loader = new THREE.STLLoader();
+		var stlFilename = "duck_simple.stl";
+		loader.load(stlFilename, function ( obj ) {
+			cubeModel = obj;
+			onModelReady();
+		});
+	}
 
-			cube.rotation.x += 0.01;
-			cube.rotation.y += 0.01;
+	function createCube(initData) {
 
-			renderer.render(scene);
+		cube = cubeModel.clone();
+		cube.scale.multiplyScalar(15);
+		cube.addBehaviors(
+			new behaviors.Object3DSync({ position: true, rotation: true, scale: true }),
+			new behaviors.TouchpadRotate()
+		);
+		cube.name = 'cube';
+		cube.rotation.y += Math.PI / 8;
+		cube.rotation.x += Math.PI / 12;
+		sim.scene.add(cube);
+		return cube;
+	}
+
+	function ready(firstInstance) {
+		if (firstInstance) {
+			sceneSync.instantiate('Cube');
 		}
-		render();
-		</script>
-	</body>
+	}
+
+	return {
+		main: main,
+		getCube: function(){ return cube; },
+	};
+
+}());
+
+
+altspace.utilities.sync.connect({
+	appId: "TouchpadCube",
+	authorId: "AltspaceVR"
+}).then(function (connection) {
+	TouchpadCube.main(connection);
+});
+
+</script>
 </html>
