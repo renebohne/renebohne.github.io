@@ -4,7 +4,7 @@
 <meta charset=utf-8>
 <title>Scanissimo Duck</title>
 <script src="https://cdn.rawgit.com/mrdoob/three.js/r84/build/three.min.js"></script>
-<script src="https://cdn.rawgit.com/mrdoob/three.js/r84/examples/js/loaders/STLLoader.js" crossorigin="anonymous"></script>
+<script src="STLLoader.js"></script>
 <script src="altspace.min.js"></script>
 </head>
 <body>
@@ -51,9 +51,8 @@
 		var loader = new THREE.STLLoader();
 		loader.crossOrigin = 'anonymous';
 
-		var stlFilename = "duck_simple.stl.html";
+		var stlFilename = "data://duck_simple.stl.html";
 		loader.load(stlFilename, function ( obj ) {
-
 			if (obj.hasColors)
 			{
 				material = new THREE.MeshPhongMaterial({ opacity: geometry.alpha, vertexColors: THREE.VertexColors });
