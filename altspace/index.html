@@ -16,23 +16,41 @@ if (!window.altspace || !window.altspace.inClient) {
 
 	var duck;
 
-	var scene = new THREE.Scene();
+	var scene = new Three.Scene();
 	var renderer = altspace.getThreeJSRenderer({version:'0.2.0'});
 
-	var material = new THREE.MeshBasicMaterial({
-		color: 0x00ff00
-	});
+	var material;
+
+
 
 	function loadDuckModel() {
 		var loader = new THREE.STLLoader();
 		var stlFilename = "duck_simple.stl";
 		loader.load(stlFilename, function ( obj ) {
+
+			if (obj.hasColors)
+			{
+				material = new THREE.MeshPhongMaterial({ opacity: geometry.alpha, vertexColors: THREE.VertexColors });
+			} else {
+				material = new THREE.MeshBasicMaterial({color: 0x00ff00});
+			}
+
 			duck = new THREE.Mesh(obj, material);
 			scene.add(duck);
 			render();
 		});
 	}
 	loadDuckModel();
+
+	if (altspace.inClient) {
+		altspace.getEnclosure()
+		.then(function (enclosure)
+		{
+			scene.position.y -= enclosure.innerHeight / enclosure.pixelsPerMeter / 3;
+			duck.scale.multiplyScalar(enclosure.pixelsPerMeter / 80);
+		});
+	}
+
 
 	//Update & Rendering
 	function render() {
