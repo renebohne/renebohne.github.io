@@ -23,7 +23,7 @@
 		var loader = new THREE.STLLoader();
 		var stlFilename = "duck_simple.stl";
 		loader.load(stlFilename, function ( obj ) {
-			duck = obj;
+			duck = new THREE.Mesh(obj);
 			scene.add(duck);
 		});
 	}
