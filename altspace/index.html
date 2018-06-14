@@ -10,6 +10,10 @@
 <body>
 </body>
 <script>
+if (!window.altspace || !window.altspace.inClient) {
+	document.write('<h3>To view this example, please open this page in <a href="http://altvr.com"> AltspaceVR </a></h3>');
+}
+
 	var duck;
 
 	var scene = new THREE.Scene();
@@ -23,8 +27,9 @@
 		var loader = new THREE.STLLoader();
 		var stlFilename = "duck_simple.stl";
 		loader.load(stlFilename, function ( obj ) {
-			duck = new THREE.Mesh(obj);
+			duck = new THREE.Mesh(obj, material);
 			scene.add(duck);
+			render();
 		});
 	}
 	loadDuckModel();
@@ -38,7 +43,7 @@
 
 		renderer.render(scene);
 	}
-	render();
+
 
 
 </script>
