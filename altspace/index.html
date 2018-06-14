@@ -8,6 +8,7 @@
 <script src="altspace.min.js"></script>
 </head>
 <body>
+	<h1>1</h1>
 	<div id="test-frame">
 	</div>
 </body>
@@ -50,7 +51,7 @@
 		var loader = new THREE.STLLoader();
 		loader.crossOrigin = 'anonymous';
 
-		var stlFilename = "duck_simple.stl";
+		var stlFilename = "duck_simple.stl.html";
 		loader.load(stlFilename, function ( obj ) {
 
 			if (obj.hasColors)
