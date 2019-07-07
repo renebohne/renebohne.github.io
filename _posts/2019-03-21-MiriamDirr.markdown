@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "Ein Leuchtendes Saxophon "
+title:      "Ein Leuchtendes Saxophon"
 subtitle:   "für Miriam Dirr"
 date:       2019-03-21 08:00:00
 author:     "René"
