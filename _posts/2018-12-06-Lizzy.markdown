@@ -1,0 +1,25 @@
+---
+layout:     post
+title:      "Wireless MIDI LEDs"
+subtitle:   "für Lizzy"
+date:       2018-12-06 08:00:00
+author:     "René"
+header-img: "img/lizzy_tech.jpg"
+tags: project
+---
+Lizzy Scharnofske ist eine deutsche Jazz- und Fusion-Musikerin (Schlagzeug, Perkussion, Gesang) und Komponistin.
+![lizzy]({{ site.baseurl }}/img/lizzy.jpg){: .center-image }
+
+[Lizzy](http://www.lizzy.berlin){:taget="_blank"} verwendet u.a. ein 3D-gedrucktes Kleid mit Drum-Pads. Für ein Konzert am 6.12.2018 in der Wabe Berlin und für die Afrika-Tour 2019 wollte Lizzy ihre Band (Kati und Sissi) ebenfalls mit 3D-gedruckten, leuchtenden Elementen ausstatten.
+
+Ich habe um den ESP32-Mikrocontroller eine Steuerung entwickelt, damit je sechs WS2812 LEDs pro Musikerin angesteuert werden können. Alle Boards werden über WLAN mit Ableton verbunden, so dass diese Sequencing-Software per MIDI jede LED einzeln in Echtzeit ansteuern kann.
+
+![lizzytech]({{ site.baseurl }}/img/lizzy_tech.jpg){: .center-image }
+
+Handelsübliche Powerbanks, mit denen man normalerweise Smartphones lädt, kamen als Stromversorgung zum Einsatz. Damit das ganze bühnentaugich ist, habe ich ein 3D-Gehäuse entworfen und rechtzeitig zum Konzert ausgedruckt.
+![lizzycase]({{ site.baseurl }}/img/lizzy_case.jpg){: .center-image }
+
+Auf Lizzy's YouTube-Kanal gibt es ein Live-Video von dem Konzert:
+<div class="videoWrapper">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HVevFaM879o?rel=0" frameborder="0" allowfullscreen></iframe>
+</div>
