@@ -1,0 +1,26 @@
+---
+layout: page
+title: "privatVERGNÜGEN"
+description: "Podcast mit René und Deinen Freunden"
+---
+<script>
+  fbq('track', 'ViewContent', {
+    content_type: 'podcast-epiode',
+  });
+</script>
+
+<h2>Über den Podcast</h2>
+<p>
+Jeden ersten Montag des Monats erscheint eine neue Episode.
+<br />Die erste Episode erscheint am 2.3.2020
+<br />
+<br /> Mehr Infos folgen bald!
+</p>
+
+<div class="list-group">
+    {% for post in site.posts %}
+        {% if post.tags contains 'podcast-episode' %}
+        <a class="list-group-item" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }},{{ post.date | date: ' %Y' }}</a>
+        {% endif %}
+    {% endfor %}
+</div>
