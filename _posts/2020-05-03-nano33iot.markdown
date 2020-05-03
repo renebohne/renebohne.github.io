@@ -1,0 +1,73 @@
+---
+layout:     post
+title:      "Arduino nano 33 IoT "
+subtitle:   "Und das Internet der Dinge "
+date:       2012-05-03 08:00:00
+author:     "René"
+header-img: "img/tingg_youtube_nano33LED.png"
+tags: youtube
+---
+Es gibt viele neue Arduino Boards. Ein sehr spannendes Exemplar ist der Arduino nano 33 IoT. In der Größe des klassischen Arduino nano bietet dieses Board einen Cortex M0+ Mikrocontroller und zusätzlich BLE und WLAN! Damit ist der Weg ins Internet der Dinge sehr einfach.
+
+![Installation]({{ site.baseurl }}/img/tingg_youtube_nano33LED.png){: .center-image }
+
+## Das Video
+
+Auf meinem YouTube-Kanal habe ich ein ausführliches Video veröffentlich, das alle Schritte dieses Tutorials beinhaltet.
+
+<div class="videoWrapper">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QgUuGy4dtHo?rel=0" frameborder="0" allowfullscreen></iframe>
+</div>
+
+## Installation
+
+Die Arduino IDE unterstützt dieses Board natürlich von Haus aus, allerdings muss es im Boardsmanager zunächst aktiviert werden. Bei der Installation werden auch die benötigten Treiber installiert, damit der Arduino als virtueller COM-Port erscheinen kann. Über diese USB-Verbindung wird das System direkt aus der Arduino IDE heraus programmiert.
+
+![Installation]({{ site.baseurl }}/img/nano33iot_installation.png){: .center-image }
+
+## Bibliotheken
+
+Folgende Bibliotheken werden benötigt:
+
+* PubSubCliebt
+* WifiNINA
+
+
+## tingg.io
+
+Als erstes muss man sich einen kostenlosen Account bei www.tingg.io anlegen. Nach der Übermittlung der Formulardaten auf der Webseite, erhält man eine E-Mail mit einem Verifikationslink.
+Nach erfolgreicher Registrierung kann die Plattform kostenlos genutzt werden, es gibt aktuell keine Einschränkungen.
+
+Das Dashboard zeigt nach einem erfolgreichem Login alle Dinge, die der Benutzer bereits bei der tingg.io Plattform registriert hat.
+
+![Dashboard]({{ site.baseurl }}/img/tingg_dashboard.png){: .center-image }
+
+Für dieses Tutorial legen wir ein neues Ding an, indem wir auf den Button "Connect a Thing" klicken.
+Sowohl Name als auch Beschreibung können frei gewählt werden, dürfen aber nicht leer bleiben.
+
+![Connection]({{ site.baseurl }}/img/tingg_connectathing.png){: .center-image }
+
+Jedes Thing besitzt eine Thing-ID und einen Thing-Key. Diese Geheimnisse befinden sich im Reiter "Settings":
+
+![Settings]({{ site.baseurl }}/img/tingg_settings.png){: .center-image }
+
+Zusätzlich zur WLAN-SSID und dem WLAN-Password des Netzwerks müssen Thing-ID und Thing-Key müssen in die credentials.h Datei im Arduino Projekt eingegeben werden:
+
+![Credentials]({{ site.baseurl }}/img/arduino_credentials.png){: .center-image }
+
+Nun müssen zwei sogenannte Resources in der Übersicht auf tingg.io angelegt werden:
+LedControl ist vom Typen Integer und "Subscribe" während LedState vom Typen Integer und "Publish" ist.
+
+![Resources]({{ site.baseurl }}/img/tingg_resources.png){: .center-image }
+
+Beide Resourcen können über den Button "Create new Resource" und den folgendem Formular angelegt werden:
+
+![Resource]({{ site.baseurl }}/img/tingg_configure_a_resource.png){: .center-image }
+
+Das besondere an der tingg.io Plattform ist, dass man sowohl historische Daten als auch die aktuellen Live-Daten grafisch im Webbrowser betrachten kann:
+
+![Live]({{ site.baseurl }}/img/tingg_livedata.png){: .center-image }
+
+Um Daten vom Web-Interface an den Arduino zu senden, müssen wir den Reiter "Debug" öffnen und dann können die Werte 0 oder 1 in das Textfeld eingetragen werden und nach einen Klick auf den Button "Send" wird daraufhin die LED des Arduino nano 33 IoT ein oder aus geschaltet.
+
+![Debug]({{ site.baseurl }}/img/tingg_debug.png){: .center-image }
