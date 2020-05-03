@@ -9,7 +9,7 @@ tags: youtube
 ---
 Es gibt viele neue Arduino Boards. Ein sehr spannendes Exemplar ist der Arduino nano 33 IoT. In der Größe des klassischen Arduino nano bietet dieses Board einen Cortex M0+ Mikrocontroller und zusätzlich BLE und WLAN! Damit ist der Weg ins Internet der Dinge sehr einfach.
 
-![Installation]({{ site.baseurl }}/img/tingg_youtube_nano33LED.png){: .center-image }
+![Startbild]({{ site.baseurl }}/img/tingg_youtube_nano33LED.png){: .center-image }
 
 ## Das Video
 
@@ -40,7 +40,7 @@ Nach erfolgreicher Registrierung kann die Plattform kostenlos genutzt werden, es
 
 Das Dashboard zeigt nach einem erfolgreichem Login alle Dinge, die der Benutzer bereits bei der tingg.io Plattform registriert hat.
 
-![Dashboard]({{ site.baseurl }}/img/tingg_dashboard.png){: .center-image }
+![Dashboard]({{ site.baseurl }}/img/tingg-dashboard.png){: .center-image }
 
 Für dieses Tutorial legen wir ein neues Ding an, indem wir auf den Button "Connect a Thing" klicken.
 Sowohl Name als auch Beschreibung können frei gewählt werden, dürfen aber nicht leer bleiben.
