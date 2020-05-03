@@ -4,7 +4,7 @@ title:      "Arduino nano 33 IoT "
 subtitle:   "Und das Internet der Dinge "
 date:       2020-05-03 08:00:00
 author:     "René"
-header-img: "img/tingg_youtube_nano33LED.png"
+header-img: "img/nano33iot.png"
 tags: youtube
 ---
 Es gibt viele neue Arduino Boards. Ein sehr spannendes Exemplar ist der Arduino nano 33 IoT. In der Größe des klassischen Arduino nano bietet dieses Board einen Cortex M0+ Mikrocontroller und zusätzlich BLE und WLAN! Damit ist der Weg ins Internet der Dinge sehr einfach.
