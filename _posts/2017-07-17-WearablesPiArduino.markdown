@@ -18,4 +18,4 @@ Leichte Einsteigerprojekte vermitteln die wichtigsten Wearables-Kenntnisse vom S
 Mehr Informationen gibt es hier:
 [https://www.amazon.de/Wearables-mit-Arduino-Raspberry-Intelligente/dp/3960090234](https://www.amazon.de/Wearables-mit-Arduino-Raspberry-Intelligente/dp/3960090234){:target="_blank"}
 
-<img src="{{ site.url }}/img/cover_wearables_pi_arduino.jpg">
+<img src="{{ site.baseurl }}/img/cover_wearables_pi_arduino.jpg">
