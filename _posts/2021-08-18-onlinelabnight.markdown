@@ -1,14 +1,12 @@
 ---
-layout: page
-title: "Online Lab Night"
-description: "Videochat der freien Maker"
+layout:     post
+title:      "Online Lab Night"
+subtitle:   "Videostream der freien Maker e.V."
+date:       2021-08-18 08:00:00
+author:     "René"
+header-img: "img/bg-post2.jpg"
+tags: youtube project
 ---
-<script>
-  fbq('track', 'ViewContent', {
-    content_type: 'podcast-epiode',
-  });
-</script>
-
 <h2>Über die Online Lab Night</h2>
 <p>
 Jeden Dienstag um 21 Uhr streamen wir die Online Lab Night auf meinem YouTube Kanal. Was als virtuelles Vereinstreffen während der Pandemie gedacht war, hat sich zu einer interessanten Sendung für Maker mit spannenden Gästen entwickelt.
@@ -494,16 +492,3 @@ Jeden Dienstag um 21 Uhr streamen wir die Online Lab Night auf meinem YouTube Ka
   <div class="videoWrapper">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/pcaLnQH5Ibo?rel=0" frameborder="0" allowfullscreen></iframe>
   </div>
-    
-
-
-
-
-
-<div class="list-group">
-    {% for post in site.posts %}
-        {% if post.tags contains 'podcast-episode' %}
-        <a class="list-group-item" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }},{{ post.date | date: ' %Y' }}</a>
-        {% endif %}
-    {% endfor %}
-</div>
