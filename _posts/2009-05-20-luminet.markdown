@@ -7,7 +7,7 @@ author:     "René"
 header-img: "img/fabscanfront.jpg"
 tags: project
 ---
-![iWall]({{ site.url }}/img/rene_luminet_wearit.jpg){: .center-image }
+![iWall]({{ site.baseurl }}/img/rene_luminet_wearit.jpg){: .center-image }
 
 ## About
 
