@@ -2,3 +2,4 @@ _site/
 .sass-cache/
 *.lnk
 jekyll serve.lnk
+node_modules/
