@@ -19,8 +19,4 @@ Ich würde mich auch freuen, wenn ihr meinen Kanal besucht und mich abonniert:
 
 [https://www.youtube.com/user/renebohne/](https://www.youtube.com/user/renebohne/){:target="_blank"}
 
-Schaut auch unbedingt bei Elektor vorbei. Dort lade ich bald einige Videos hoch, also abonniert auch den Elektor Kanal, damit ihr kein Video mehr verpasst!
-
-[https://www.youtube.com/user/ElektorDE/](https://www.youtube.com/user/ElektorDE/){:target="_blank"}
-
 ![DIY + Maker]({{ site.baseurl }}/img/DIYMaker.png){: .center-image }
