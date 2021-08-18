@@ -7,14 +7,15 @@ author:     "René"
 header-img: "img/bg-post2.jpg"
 tags: youtube project
 ---
-<h2>Über die Online Lab Night</h2>
-<p>
+
+# Über die Online Lab Night
+
 Jeden Dienstag um 21 Uhr streamen wir die Online Lab Night auf meinem YouTube Kanal. Was als virtuelles Vereinstreffen während der Pandemie gedacht war, hat sich zu einer interessanten Sendung für Maker mit spannenden Gästen entwickelt.
 
 <div class="videoWrapper">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/lfqEi2GsSmU?rel=0" frameborder="0" allowfullscreen></iframe>
-  </div>
-  [Code bei github](https://github.com/renebohne/ttgo_taudio_webradio){:target="_blank"}
+</div>
+[Code bei github](https://github.com/renebohne/ttgo_taudio_webradio){:target="_blank"}
   
   Diese Woche basteln wir ein Webradio mit einem ESP32, einem DAC und unserem eigenen 3D-gedruckten Gehäuse. Wir schauen uns auch ganz kurz an, wie man einen icecast2 Server installiert und mit mixxx Musik an den Server streamt. Wir freuen uns auf eure Fragen und Kommentare im Live-Chat und bei Discord!
   
