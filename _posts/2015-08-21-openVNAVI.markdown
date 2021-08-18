@@ -9,7 +9,7 @@ tags: project
 ---
 I supervised this Bachelor's thesis by David Antón Sánchez.
 
-![openVNAVI](http://hci.rwth-aachen.de/img/wiki_up/vest_front.PNG)
+![openVNAVI]({{ site.baseurl }}/img/openvnavi.jpg){: .center-image }
 
 ## About
 
