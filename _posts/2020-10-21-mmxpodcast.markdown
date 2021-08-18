@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "MMx Podcast "
+title:      "MMx Podcast"
 subtitle:   "Die Maker Bewegung und das IoT"
 date:       2020-10-21 08:00:00
 author:     "René"

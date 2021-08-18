@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "IoT Workshop "
+title:      "IoT Workshop"
 subtitle:   "StarTUpDay TU Berlin"
 date:       2016-11-09 08:00:00
 author:     "René"

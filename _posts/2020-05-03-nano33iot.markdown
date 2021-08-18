@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "Arduino nano 33 IoT "
+title:      "Arduino nano 33 IoT"
 subtitle:   "Und das Internet der Dinge "
 date:       2020-05-03 08:00:00
 author:     "René"

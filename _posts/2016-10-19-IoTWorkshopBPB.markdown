@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "IoT Hackathon "
+title:      "IoT Hackathon"
 subtitle:   "Selbstbestimmt leben in der vernetzten Gesellschaft"
 date:       2016-10-19 08:00:00
 author:     "René"

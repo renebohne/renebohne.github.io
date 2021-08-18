@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "DIY 3D Mouse "
+title:      "DIY 3D Mouse"
 subtitle:   "FabMouse project"
 date:       2014-03-21 08:00:00
 author:     "René"

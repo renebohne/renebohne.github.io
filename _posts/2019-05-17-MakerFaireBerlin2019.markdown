@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "Maker Faire Berlin 2019 "
+title:      "Maker Faire Berlin 2019"
 subtitle:   "IoT Workshops und Exponate "
 date:       2019-05-17 08:00:00
 author:     "René"

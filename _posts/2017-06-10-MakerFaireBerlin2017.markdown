@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "Maker Faire Berlin 2017 "
+title:      "Maker Faire Berlin 2017"
 subtitle:   "Makerprojekte im IoT"
 date:       2017-06-09 08:00:00
 author:     "René"
