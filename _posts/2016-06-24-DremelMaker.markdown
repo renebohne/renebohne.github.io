@@ -12,7 +12,7 @@ Da bin ich natürlich voll in meinem Element!
 Jörg hingegen fühlt sich mit den klassischen Werkzeugen wohler und deshalb haben wir unsere Kräfte gebündelt und gemeinsam ein Retroradio aufgemotzt. 3D-gedruckte Teile, Raspberry Pi, Internetradio, alles drin!
 
 <div class="videoWrapper">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bSdQhayyUbY" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QOaRyzJSTDc" frameborder="0" allowfullscreen></iframe>
 </div>
 
 Ich würde mich auch freuen, wenn ihr meinen Kanal besucht und mich abonniert:
