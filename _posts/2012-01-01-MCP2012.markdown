@@ -16,5 +16,6 @@ tags: project
 <div class="videoWrapper">
 <iframe width="560" height="315" src="//www.youtube.com/embed/3Q2Xv1Y1mdU" frameborder="0" allowfullscreen></iframe>
 </div>
+
 <span class="caption text-muted">MCP2012: final presentation</span>
 You can find more information on the <a href="http://hci.rwth-aachen.de/interactive_assembly">lab homepage</a>.

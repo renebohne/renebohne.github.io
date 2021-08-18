@@ -23,4 +23,4 @@ In the context of the lasercutter these QR codes can additionally be used to cre
 Users can place and rotate their QR code in reality and the identified cutting schemes will be placed and rotated in the lasercutter software (VisiCut) accordingly.
 
 ## More Information
-[http://hci.rwth-aachen.de/fabqr](http://hci.rwth-aachen.de/fabqr)
+[http://hci.rwth-aachen.de/fabqr](http://hci.rwth-aachen.de/fabqr){:target="_blank"}

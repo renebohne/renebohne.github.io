@@ -17,4 +17,4 @@ The iWall is designed so users can interact with it outside the building using t
 
 
 ## More Information
-[http://hci.rwth-aachen.de/iwall](http://hci.rwth-aachen.de/iwall)
+[http://hci.rwth-aachen.de/iwall](http://hci.rwth-aachen.de/iwall){:target="_blank"}

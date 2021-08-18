@@ -24,4 +24,4 @@ Compared to the original LumiNet, LumiNet2 features some hardware design changes
 LumiNet2 is smaller and lighter, which makes it easier to integrate them into clothes. All connectors are designed for easy sewing but also soldering of conductive ribbon.
 
 ## More Information
-[http://hci.rwth-aachen.de/luminet2](http://hci.rwth-aachen.de/luminet2)
+[http://hci.rwth-aachen.de/luminet2](http://hci.rwth-aachen.de/luminet2){:target="_blank"}

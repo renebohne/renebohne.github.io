@@ -15,5 +15,6 @@ It started out as a Bachelor's thesis by Francis Engelmann, supervised by René 
 ![FabScan](http://hci.rwth-aachen.de/img/wiki_up/prot3Setup.png){: .center-image }
 
 
-##More Information
-http://hci.rwth-aachen.de/fabscan
+## More Information
+
+[http://hci.rwth-aachen.de/fabscan](http://hci.rwth-aachen.de/fabscan){:target="_blank"}

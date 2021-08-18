@@ -36,4 +36,4 @@ Did you know that we assembled one FabScan that we cut with Dremel tools? You ca
 </div>
 
 ## More Information
-[http://hci.rwth-aachen.de/fabscanpi](http://hci.rwth-aachen.de/fabscanpi)
+[http://hci.rwth-aachen.de/fabscanpi](http://hci.rwth-aachen.de/fabscanpi){:target="_blank"}

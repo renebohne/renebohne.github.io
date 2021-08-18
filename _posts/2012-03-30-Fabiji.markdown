@@ -17,4 +17,4 @@ Fabiji is a mobile kiosk with an embedded iPad that offers a whole new experienc
 </div>
 
 ## More Information
-[http://hci.rwth-aachen.de/fabiji](http://hci.rwth-aachen.de/fabiji)
+[http://hci.rwth-aachen.de/fabiji](http://hci.rwth-aachen.de/fabiji){:target="_blank"}

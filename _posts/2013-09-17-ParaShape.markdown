@@ -15,4 +15,4 @@ The rise of personal fabrication due to fast advance of technology in producing 
 Parashape is an approach to solve these problems for both groups of CAD experts and novice users by presenting the idea of having a part based 3d model customizer.
 
 ## More Information
-[http://hci.rwth-aachen.de/parashape](http://hci.rwth-aachen.de/parashape)
+[http://hci.rwth-aachen.de/parashape](http://hci.rwth-aachen.de/parashape){:target="_blank"}

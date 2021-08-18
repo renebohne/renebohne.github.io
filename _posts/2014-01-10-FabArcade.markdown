@@ -17,4 +17,4 @@ It's a fully functioning video arcade that lets you relive those cool retro vide
 
 
 ## More Information
-[http://hci.rwth-aachen.de/fabarcade](http://hci.rwth-aachen.de/fabarcade)
+[http://hci.rwth-aachen.de/fabarcade](http://hci.rwth-aachen.de/fabarcade){:target="_blank"}

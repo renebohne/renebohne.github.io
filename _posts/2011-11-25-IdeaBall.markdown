@@ -17,4 +17,4 @@ IdeaBall is a physical prototype for controlling turn-taking and recording brain
 
 
 ## More Information
-[http://hci.rwth-aachen.de/ideaball](http://hci.rwth-aachen.de/ideaball)
+[http://hci.rwth-aachen.de/ideaball](http://hci.rwth-aachen.de/ideaball){:target="_blank"}

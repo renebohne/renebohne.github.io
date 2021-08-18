@@ -22,6 +22,6 @@ ROBOLED is a permanent interactive exhibit in the new German Ministry of Educati
 
 ## More Information
 
-[http://hci.rwth-aachen.de/roboled](http://hci.rwth-aachen.de/roboled)
+[http://hci.rwth-aachen.de/roboled](http://hci.rwth-aachen.de/roboled){:target="_blank"}
 
 [German article by the Bundesministerium für Bildung und Forschung](http://www.photonik-campus.de/2014/roboled-hightech-industrie-trifft-auf-maker)

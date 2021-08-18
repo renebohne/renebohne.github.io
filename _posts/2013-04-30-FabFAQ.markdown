@@ -18,4 +18,4 @@ FabFAQ is a learning platform for the personal fabrication domain. It focuses on
 The platforms allows the users to ask questions related to personal fabrication. For successful contributions the users are rewarded with points and badges which motivate them in participating. FabFAQ also supports a tagging system which, for example, allows to connect with the users from a local fab lab. Through this a fab lab master can also help his users outside the open lab days.
 
 ## More Information
-[http://hci.rwth-aachen.de/fabfaq](http://hci.rwth-aachen.de/fabfaq)
+[http://hci.rwth-aachen.de/fabfaq](http://hci.rwth-aachen.de/fabfaq){:target="_blank"}

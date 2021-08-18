@@ -28,4 +28,4 @@ VisiCut is our free, open-source lasercutter software!
 
 
 ##More Information
-[http://hci.rwth-aachen.de/visicut](http://hci.rwth-aachen.de/visicut)
+[http://hci.rwth-aachen.de/visicut](http://hci.rwth-aachen.de/visicut){:target="_blank"}

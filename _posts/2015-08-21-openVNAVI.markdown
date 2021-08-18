@@ -22,4 +22,4 @@ The grayscale value of each pixel on the lower resolution frame is assigned to a
 With this method the vibration motor unit array is able to represent a vibratory image onto the user’s belly to help create a mental representation of the obstacles in the scene.
 
 ## More Information
-[http://hci.rwth-aachen.de/openvnavi](http://hci.rwth-aachen.de/openvnavi)
+[http://hci.rwth-aachen.de/openvnavi](http://hci.rwth-aachen.de/openvnavi){:target="_blank"}

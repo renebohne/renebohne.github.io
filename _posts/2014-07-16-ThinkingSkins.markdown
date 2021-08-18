@@ -34,4 +34,5 @@ From the electronics point of view, we start over with a Arduino-based setup. Al
 * [SonicMoiré - An Accustic Filter Wall Module](http://www.instructables.com/id/Accustic-Wall-Module-SonicMoir%C3%A9/){:target="_blank"}
 
 For more information, see the official project page:
-http://hci.rwth-aachen.de/m3_ss14
+
+[http://hci.rwth-aachen.de/m3_ss14](http://hci.rwth-aachen.de/m3_ss14){:target="_blank"}

@@ -17,4 +17,4 @@ LumiCAD is an interactive Processing program with which one can 'grow' an indivi
 
 ## More Information
 
-[http://hci.rwth-aachen.de/lumicad](http://hci.rwth-aachen.de/lumicad)
+[http://hci.rwth-aachen.de/lumicad](http://hci.rwth-aachen.de/lumicad){:target="_blank"}
