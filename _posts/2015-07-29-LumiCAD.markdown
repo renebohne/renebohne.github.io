@@ -9,7 +9,7 @@ tags: project
 ---
 I supervised this Bachelor's thesis by Salsabil Hamadache.
 
-![LumiCAD]({{ site.url }}/img/lumicad.jpg){: .center-image }
+![LumiCAD]({{ site.baseurl }}/img/lumicad.jpg){: .center-image }
 
 ## About
 

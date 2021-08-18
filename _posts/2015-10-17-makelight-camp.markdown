@@ -10,7 +10,7 @@ tags: workshop Berlin event
 
 <p>I hosted a workshop about the Intel Galileo and the robOLED robotic arm during the <a href="http://www.photonik-campus.de/make-light/make-light-veranstaltungen/make-light-lab-im-bundesforschungsministerium/" target="_blank"> Make Light Camp 2015 in Berlin.</a></p>
 
-![My Workshop]({{ site.url }}/img/IMG_8229.JPG){: .center-image }
+![My Workshop]({{ site.baseurl }}/img/IMG_8229.JPG){: .center-image }
 
 <p>All images: copyright VDI Technologiezentrum</p>
 

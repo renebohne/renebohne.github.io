@@ -9,4 +9,4 @@ tags: talk Berlin publication
 ---
 
 <p>I talked about WEAR-LEDs at OpenTechSumit Berlin.</p>
-![3D body scanner]({{ site.url }}/img/opentechsumit.jpg){: .center-image }
+![3D body scanner]({{ site.baseurl }}/img/opentechsumit.jpg){: .center-image }

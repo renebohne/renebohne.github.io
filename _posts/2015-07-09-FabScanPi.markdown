@@ -18,9 +18,9 @@ I supervised this bachelor's thesis by Mario Lukas.
 
 This is the new housing that can be cut on a laser cutter:
 
-<img src="{{ site.url }}/img/IMG_0392.JPG">
+<img src="{{ site.baseurl }}/img/IMG_0392.JPG">
 
-<img src="{{ site.url }}/img/IMG_0393.JPG">
+<img src="{{ site.baseurl }}/img/IMG_0393.JPG">
 
 ## In Action
 

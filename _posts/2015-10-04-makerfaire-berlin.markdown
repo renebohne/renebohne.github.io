@@ -9,7 +9,7 @@ tags: exhibition Berlin event
 ---
 
 <p>It was the first Maker Faire in Berlin and it was great! I was part of the "Freie Maker" exhibition and our highlight was a 3D body scanner. We 3D-scanned people for free!</p>
-![3D body scanner]({{ site.url }}/img/3dbodyscanner.jpg){: .center-image }
+![3D body scanner]({{ site.baseurl }}/img/3dbodyscanner.jpg){: .center-image }
 
 <p>We were part of the Wearables Fashion Show. The <a href="http://www.wear-leds.com" target="_blank">WEAR-LEDs</a> heart-beat dress was on the catwalk four times per day!</p>
 
