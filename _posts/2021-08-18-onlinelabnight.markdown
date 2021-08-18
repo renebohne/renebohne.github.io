@@ -12,8 +12,6 @@ tags: youtube project
 
 Jeden Dienstag um 21 Uhr streamen wir die Online Lab Night auf meinem YouTube Kanal. Was als virtuelles Vereinstreffen während der Pandemie gedacht war, hat sich zu einer interessanten Sendung für Maker mit spannenden Gästen entwickelt.
 
-![Online Lab Night]({{ site.baseurl }}/img/onlinelabnight.png){: .center-image }
-
 <div class="videoWrapper">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/lfqEi2GsSmU?rel=0" frameborder="0" allowfullscreen></iframe>
 </div>
@@ -493,3 +491,5 @@ Jan, Rick und René haben sich online getroffen, um einene Ausgleich für den We
 <div class="videoWrapper">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pcaLnQH5Ibo?rel=0" frameborder="0" allowfullscreen></iframe>
 </div>
+
+![Online Lab Night]({{ site.baseurl }}/img/onlinelabnight.png){: .center-image }
