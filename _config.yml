@@ -3,8 +3,8 @@ title: René is MAKING THINGS
 header-img: img/home-bg.jpg
 email: rene.bohne@gmail.com
 description: "Personal website of René Bohne"
-baseurl: ""
-url: "http://rene-bohne.de"
+baseurl: "/"
+url: "rene-bohne.de"
 twitter_username: rene_bohne
 github_username:  renebohne
 facebook_username:  rene.bohne.aachen
