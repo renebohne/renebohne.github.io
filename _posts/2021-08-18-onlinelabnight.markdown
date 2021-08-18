@@ -4,7 +4,7 @@ title:      "Online Lab Night"
 subtitle:   "Videostream der freien Maker e.V."
 date:       2021-08-18 08:00:00
 author:     "René"
-header-img: "img/bg-post2.jpg"
+header-img: "img/onlinelabnight.png"
 tags: youtube project
 ---
 
