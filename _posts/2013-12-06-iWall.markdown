@@ -4,7 +4,7 @@ title:      "iWall"
 subtitle:   "An Illuminated Façade For Smart Lighting Research"
 date:       2013-12-06 07:00:00
 author:     "René"
-header-img: "img/fabscanfront.jpg"
+header-img: "img/iwall.jpg"
 tags: project
 ---
 ![iWall]({{ site.baseurl }}/img/iwall.jpg){: .center-image }
