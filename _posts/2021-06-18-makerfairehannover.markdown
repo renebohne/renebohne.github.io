@@ -1,11 +1,11 @@
 ---
 layout:     post
-title:      "Arduino nano 33 IoT"
-subtitle:   "Und das Internet der Dinge "
-date:       2020-05-03 08:00:00
+title:      "Maker Faire Hannover 2021"
+subtitle:   "Digital Edition"
+date:       2021-06-18 08:00:00
 author:     "René"
-header-img: "img/nano33iot.png"
-tags: youtube
+header-img: "img/post-bg.jpg"
+tags: youtube event talk
 ---
 Am 18.Juni 2021 habe ich die Maker Faire Hannover - Digital Edition eröffnet. Neben der Anmoderation der KeyNote, durfte ich durch das Programm des "Wissenshubs" führen, wo wir neben spannenden Beiträgen der heise Redaktion auch tolle Gäste aus Forschung, Wissenschaft und Wirtschaft hatten. Und natürlich haben auch Maker ihre Projekte vorgestellt und das Thema Nachwuchsförderung wurde intensiv diskutiert. 
 
