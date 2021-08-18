@@ -7,7 +7,7 @@ author:     "René"
 header-img: "img/fabscanfront.jpg"
 tags: project
 ---
-![iWall]({{ site.url }}/img/iwall.jpg){: .center-image }
+![iWall]({{ site.baseurl }}/img/iwall.jpg){: .center-image }
 
 ## About
 
