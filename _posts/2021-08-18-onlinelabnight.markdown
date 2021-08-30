@@ -13,13 +13,19 @@ tags: youtube project
 Jeden Dienstag um 21 Uhr streamen wir ([Freie Maker e.V.](http://www.freie-maker.de){:target="_blank"}) die Online Lab Night auf meinem YouTube Kanal. Was als virtuelles Vereinstreffen während der Pandemie gedacht war, hat sich zu einer interessanten Sendung für Maker mit spannenden Gästen entwickelt.
 
 <div class="videoWrapper">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/5MRsCmN8M_I?rel=0" frameborder="0" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/1V8XqHMmONg?rel=0" frameborder="0" allowfullscreen></iframe>
 </div>
-
-Jeder kann 3D-Modelle selbst erstellen. Wir schauen uns live an, wie das mit der kostenlosen Software openSCAD ganz einfach geht. Die Modelle können als STL Dateien für den 3D-Drucker exportiert werden oder 2D-Projektionen als SVG oder DXF auf einem Lasercutter, einer CNC-Fräse oder einem Schneide-Plotter verwendet werden. Super spannend, also schreibt eure Fragen und Kommentare im Live-Chat bei YouTube oder in unserem Discord!
+Mit Flutter kann man aus einem einzigen Source Code Apps für iOS, Android, Web oder Desktop erzeugen. Das ist auch für Maker sehr hilfreich. Wir freuen uns auf Deine Nachrichten im LiveChat bei YouTube und in unserem Discord.
 
 # Staffel 2
-Die Infektionszahlen steigen weltweit. Auch in Deutschland sind wieder Einschränkungen zu spüren und ein erneuter Lockdown ist nicht ausgeschlossen. Deswegen werden wir ab dem 3.11. wieder jede Woche eine Stunde in der Online Lab Night live auf Youtube und auf Facebook verbringen. Seit der letzten Sendung im August hat sich viel getan, wir werden von neuen Projekten berichten und freuen uns wieder auf viele Gäste, die wir für Experten auf ihrem Gebiet halten. Es freut uns sehr, dass wir mittlerweile auch über den Verein hinaus treue Zuschauer haben und sich so viele Menschen für unser Thema interessieren. <b>Schaltet live ein, dienstags um 21 Uhr!</b>
+Die Infektionszahlen steigen weltweit. Auch in Deutschland sind wieder Einschränkungen zu spüren und ein erneuter Lockdown ist nicht ausgeschlossen. Deswegen werden wir ab dem 3.11.2020 wieder jede Woche eine Stunde in der Online Lab Night live auf Youtube und auf Facebook verbringen. Seit der letzten Sendung im August hat sich viel getan, wir werden von neuen Projekten berichten und freuen uns wieder auf viele Gäste, die wir für Experten auf ihrem Gebiet halten. Es freut uns sehr, dass wir mittlerweile auch über den Verein hinaus treue Zuschauer haben und sich so viele Menschen für unser Thema interessieren. <b>Schaltet live ein, dienstags um 21 Uhr!</b>
+
+## S2E41 - Kostenlose 3D-Software: openSCAD
+
+<div class="videoWrapper">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/5MRsCmN8M_I?rel=0" frameborder="0" allowfullscreen></iframe>
+</div>
+Jeder kann 3D-Modelle selbst erstellen. Wir schauen uns live an, wie das mit der kostenlosen Software openSCAD ganz einfach geht. Die Modelle können als STL Dateien für den 3D-Drucker exportiert werden oder 2D-Projektionen als SVG oder DXF auf einem Lasercutter, einer CNC-Fräse oder einem Schneide-Plotter verwendet werden. Super spannend, also schreibt eure Fragen und Kommentare im Live-Chat bei YouTube oder in unserem Discord!
 
 ## S2E40 - Webradio selber bauen
 
