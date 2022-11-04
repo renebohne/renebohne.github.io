@@ -3,3 +3,7 @@ _site/
 *.lnk
 jekyll serve.lnk
 node_modules/
+fonts/.DS_Store
+.gitignore
+.gitignore
+.DS_Store
